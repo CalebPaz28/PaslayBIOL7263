@@ -1,7 +1,6 @@
 ---
-title: "PaslayBIOL7263"
-first author: "Caleb Paslay"
-second author: "Bob"
+title: "Assignment 1"
+author: "Caleb Paslay"
 date: "`r Sys.Date()`"
 output: html_document
 ---
