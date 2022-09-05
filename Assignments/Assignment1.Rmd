@@ -4,3 +4,13 @@ author: "Caleb Paslay"
 date: "`r Sys.Date()`"
 output: html_document
 ---
+# Cell Table
+Table header | Second Header
+------------ | --------------
+Cell 1       | Cell 4
+Cell 2       | Cell 5
+Cell 3       | Cell 6
+
+$A = \pi*r^{2}$  
+*Hello*
+
