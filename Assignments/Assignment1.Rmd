@@ -6,17 +6,26 @@ output: html_document
 ---
 # Cell Table
 Table header | Second Header
------------- | --------------
+:------------ | :--------------
 Cell 1       | Cell 4
 Cell 2       | Cell 5
 Cell 3       | Cell 6
 
 $A = \pi*r^{2}$  
 
-[Sunflower](Images/sunflower_1.jpeg)
+![Sunflower](Images/sunflower_1.jpeg){width=50%}
 
 
+```{r, echo=FALSE, out.width="50%", fig.cap="Figure 1 Sunflower",fig.align='center',R.options="angle=90"}
+knitr::include_graphics("Images/sunflower_1.jpeg")
+```
 
+
+### [R markdown guide](https://bookdown.org/yihui/rmarkdown/)
+
+### [Rmarkdown hyperlinking](https://ucsbcarpentry.github.io/R-markdown/04-links-images-tables/index.html) 
+
+### [Entrez guidlines](https://cran.r-project.org/web/packages/rentrez/vignettes/rentrez_tutorial.html) 
 
 
 
