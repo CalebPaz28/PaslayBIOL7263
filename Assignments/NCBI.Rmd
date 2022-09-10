@@ -1,0 +1,39 @@
+---
+title: "NCBI Rentrenz walkthrough"
+author: "Caleb Paslay"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+### [R markdown guide](https://bookdown.org/yihui/rmarkdown/)
+
+
+### [Rmarkdown hyperlinking](https://ucsbcarpentry.github.io/R-markdown/04-links-images-tables/index.html) 
+
+### [Entrez guidlines](https://cran.r-project.org/web/packages/rentrez/vignettes/rentrez_tutorial.html) 
+
+
+
+install.packages("rentrez")
+
+library(rentrez)
+
+entrez_dbs()
+
+entrez_db_summary("nucleotide")
+
+r_search <- entrez_search(db="pubmed", term="R Language")
+
+r_search
+
+r_search$ids
+
+To increase the number of IDS we can do so by increasing the ret_max argument. 
+
+another_r_search <- entrez_search(db="pubmed", term="R Language", retmax=40)
+
+To access all the IDs from the records, we can use NCBI's search term. 
+
+
+
+

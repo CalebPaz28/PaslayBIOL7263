@@ -11,9 +11,9 @@
 
 <meta name="author" content="Caleb Paslay" />
 
-<meta name="date" content="2022-09-09" />
+<meta name="date" content="2022-09-07" />
 
-<title>PaslayBIOL7263</title>
+<title>NCBI Rentrenz walkthrough</title>
 
 <script>// Pandoc 2.9 adds attributes on both header and div. We remove the former (to
 // be compatible with the behavior of Pandoc < 2.8).
@@ -363,74 +363,37 @@ pre code {
 
 
 
-<h1 class="title toc-ignore">PaslayBIOL7263</h1>
+<h1 class="title toc-ignore">NCBI Rentrenz walkthrough</h1>
 <h4 class="author">Caleb Paslay</h4>
-<h4 class="date">2022-09-09</h4>
+<h4 class="date">2022-09-07</h4>
 
 </div>
 
 
-<div id="dr.-toomey-class-website" class="section level3">
-<h3><a href="https://mbtoomey.github.io/Biol_7263/">Dr. Toomey Class
-Website</a></h3>
+<div id="r-markdown-guide" class="section level3">
+<h3><a href="https://bookdown.org/yihui/rmarkdown/">R markdown
+guide</a></h3>
 </div>
-<div id="dr.-ali-lab-website" class="section level3">
-<h3><a href="http://akhtarvirologylab.utulsa.edu/?_ga=2.103113152.1328270510.1662781666-1960873060.1662405509">Dr. Ali
-Lab Website</a></h3>
-<div id="assignment1" class="section level4">
-<h4><a href="Assignments/Assignment1.html">Assignment1</a></h4>
-<div id="about-me" class="section level5">
-<h5>About me</h5>
-<p>Hello! I am a current master’s degree student with Dr. Ali. I am
-married to my beautiful wife B for over 3 years now. We also have an
-amazing daughter, R, whom we welcomed into this world in March of 2022.
-We have two doggie friends, <a href="koda_1.jpeg" title="=width 50%">Koda</a> and <a href="koda_2.jpeg">Hazel</a>.</p>
+<div id="rmarkdown-hyperlinking" class="section level3">
+<h3><a href="https://ucsbcarpentry.github.io/R-markdown/04-links-images-tables/index.html">Rmarkdown
+hyperlinking</a></h3>
 </div>
-<div id="educational-experience" class="section level5">
-<h5>Educational Experience</h5>
-<p>Before my time at TU, I obtained a bachelor’s in science in secondary
-science education with a minor in chemistry from Oklahoma Baptist
-University (OBU).</p>
-</div>
-<div id="research-interests" class="section level5">
-<h5>Research Interests</h5>
-</div>
-<div id="table-of-assignments" class="section level5">
-<h5>Table of Assignments</h5>
-<table>
-<thead>
-<tr class="header">
-<th align="left">Date</th>
-<th align="left">Description</th>
-<th align="left">Assignment</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td align="left">9.10.22</td>
-<td align="left">Rmarkdown 1</td>
-<td align="left"><a href="Assignments/Assignment1.html">Assignment
-1</a></td>
-</tr>
-<tr class="even">
-<td align="left">9.11.22</td>
-<td align="left">Rmarkdown 2</td>
-<td align="left"><a href>Assignment 2</a></td>
-</tr>
-<tr class="odd">
-<td align="left">9.12.22</td>
-<td align="left">Rmarkdown 3</td>
-<td align="left"><a href>Assignment 3</a></td>
-</tr>
-<tr class="even">
-<td align="left">9.13.22</td>
-<td align="left">Rmarkdown 4</td>
-<td align="left"><a href>Assignment 4</a></td>
-</tr>
-</tbody>
-</table>
-</div>
-</div>
+<div id="entrez-guidlines" class="section level3">
+<h3><a href="https://cran.r-project.org/web/packages/rentrez/vignettes/rentrez_tutorial.html">Entrez
+guidlines</a></h3>
+<p>install.packages(“rentrez”)</p>
+<p>library(rentrez)</p>
+<p>entrez_dbs()</p>
+<p>entrez_db_summary(“nucleotide”)</p>
+<p>r_search &lt;- entrez_search(db=“pubmed”, term=“R Language”)</p>
+<p>r_search</p>
+<p>r_search$ids</p>
+<p>To increase the number of IDS we can do so by increasing the ret_max
+argument.</p>
+<p>another_r_search &lt;- entrez_search(db=“pubmed”, term=“R Language”,
+retmax=40)</p>
+<p>To access all the IDs from the records, we can use NCBI’s search
+term.</p>
 </div>
 
 
