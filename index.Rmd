@@ -1,7 +1,7 @@
 ---
 title: "PaslayBIOL7263"
 author: "Caleb Paslay"
-date: "`r Sys.Date()`"
+date: "Last updated 9/14/2022"
 output: html_document
 theme: "journal"
 ---
@@ -11,7 +11,7 @@ theme: "journal"
 ##### [Dr. Ali Lab Website](http://akhtarvirologylab.utulsa.edu/?_ga=2.103113152.1328270510.1662781666-1960873060.1662405509) 
 
 ##### About me
-Hello! I am a current master's degree student with Dr. Ali. I have been happily married to my beautiful wife B for over 3 years now. We also have an amazing daughter, R, whom we welcomed into this world in March of 2022. We have two doggie friends, Koda and Hazel (Figure 1). 
+Hello! I am a current master's degree student with Dr. Ali. I have been happily married to my beautiful wife B for over 3 years now. We have an amazing daughter, R, whom we welcomed into this world in March of 2022. We also have two doggie friends, Koda (right) and Hazel (left) (Figure 1). 
 
 ```{r, echo=FALSE, out.width="50%", fig.cap="Figure 1 Koda and Hazel",fig.align='center',R.options="angle=90"}
 knitr::include_graphics("Koda_2.jpeg")
@@ -23,7 +23,7 @@ Before my time at TU, I obtained a bachelor's in science in secondary science ed
 ##### Research Interests      
 I am generally interested in understanding the relationship between a pathological problem (biological) and the plant host impacted. I genuinely find all pathogens known to infect plants incredibly interesting, but have grown more interested in virus pathology specifically while at TU under the advising of Dr. Ali. There is much to be elucidated concerning the role of virus infection in various plant hosts. This provides young researchers (like myself) with great opportunities to contribute to a better understanding of these plant-virus interactions. As is related to plant viruses, I am interested in the seed transmissible features of plant viruses (vertical transmission), the ability of viruses to be transmitted within laboratory settings, and plant virus geographical distributions. I greatly enjoy the opportunities I have at TU to study the plant-pathogen interactions and I hope I will continue to have the ability to study and contribute to the greater community of plant pathology.
 
-```{r, echo=FALSE, out.width="50%", fig.cap="Figure 3 Pepper Cultivars",fig.align='center',R.options="angle=90"}
+```{r, echo=FALSE, out.width="50%", fig.cap="Figure 2 Pepper Cultivars prior to mechanical inoculation",fig.align='center',R.options="angle=90"}
 knitr::include_graphics("8.19.22 All (1).JPEG")
 ```
 
