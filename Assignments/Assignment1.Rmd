@@ -21,11 +21,17 @@ knitr::include_graphics("Images/sunflower_1.jpeg")
 ```
 
 
+# Helpful information
+
 ### [R markdown guide](https://bookdown.org/yihui/rmarkdown/)
 
 ### [Rmarkdown hyperlinking](https://ucsbcarpentry.github.io/R-markdown/04-links-images-tables/index.html) 
 
 ### [Entrez guidlines](https://cran.r-project.org/web/packages/rentrez/vignettes/rentrez_tutorial.html) 
 
+### How to open the same repository on a different computer. 
 
-
+Two main ways:   
+1) git clone https://github.com/USERNAME/REPOSITORY.git 
+Be sure to change the ```username``` and ```repository``` accordingly.  
+2) open a new project -> select "version control" and type in the information similar to 1). You will not need to include the git  commands. 
