@@ -32,8 +32,8 @@ Date|Description|File Type|Assignment
 :---|:---|:---|:---
 9.10.22|Rmarkdown 1|.html|[Assignment 1](Assignments/Assignment1.html)
 9.11.22|Rmarkdown 2|.html|[Assignment 2](Assignments/practice_lecture2.html)
-9.12.22|Rmarkdown 3||[Assignment 3]()
-9.13.22|Rmarkdown 4||[Assignment 4]()
+9.12.22|Rmarkdown 3|.html|[Assignment 3]()
+9.13.22|Rmarkdown 4|.html|[Assignment 4]()
 
 
 
