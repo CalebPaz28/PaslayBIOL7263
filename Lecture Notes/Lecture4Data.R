@@ -13,4 +13,6 @@ MBT_ebird_no_header <- read.csv("Data/MBT_ebird.csv", col_names = c("first_colum
 
 glimpse(MBT_ebird.csv)
 
+filter(ebird_cut2 )
+
 head(MBT_ebird.csv)
