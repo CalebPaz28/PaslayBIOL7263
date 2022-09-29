@@ -5,6 +5,13 @@ date: "`r Sys.Date()`"
 output: html_document
 ---
 
+```{r echo=FALSE}
+require(tidyverse)
+```
+
+
+
+
 ### [R markdown guide](https://bookdown.org/yihui/rmarkdown/)
 
 
@@ -22,7 +29,23 @@ entrez_dbs()
 
 entrez_db_summary("nucleotide")
 
-r_search <- entrez_search(db="pubmed", term="R Language")
+nucleotide_search <- entrez_search(db = "nucleotide", term = "ribosome")
+
+View(nucleotide_search)
+
+print(nucleotide_search)
+
+nucleotide_search$ids
+
+TYLCV <- entrez_search(db = "protein", term = "Tomato yellow leaf curl virus")
+
+print(TYLCV)
+
+TYLCV$ids
+
+entrez_dbs()
+
+r_search <- entrez_search(db="pubmed", term="R Language") 
 
 r_search
 
@@ -31,6 +54,16 @@ r_search$ids
 To increase the number of IDS we can do so by increasing the ret_max argument. 
 
 another_r_search <- entrez_search(db="pubmed", term="R Language", retmax=40)
+
+another_r_search
+
+r_search$ids
+
+another_r_search2 <- entrez_search(db="pubmed", term="R Language", retmax=60)
+
+another_r_search2
+
+another_r_search2$ids
 
 To access all the IDs from the records, we can use NCBI's search term. 
 

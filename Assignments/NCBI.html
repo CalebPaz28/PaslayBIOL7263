@@ -11,7 +11,7 @@
 
 <meta name="author" content="Caleb Paslay" />
 
-<meta name="date" content="2022-09-09" />
+<meta name="date" content="2022-09-26" />
 
 <title>NCBI Rentrenz walkthrough</title>
 
@@ -365,11 +365,20 @@ pre code {
 
 <h1 class="title toc-ignore">NCBI Rentrenz walkthrough</h1>
 <h4 class="author">Caleb Paslay</h4>
-<h4 class="date">2022-09-09</h4>
+<h4 class="date">2022-09-26</h4>
 
 </div>
 
 
+<pre><code>## Loading required package: tidyverse</code></pre>
+<pre><code>## ── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──
+## ✔ ggplot2 3.3.6      ✔ purrr   0.3.4 
+## ✔ tibble  3.1.8      ✔ dplyr   1.0.10
+## ✔ tidyr   1.2.0      ✔ stringr 1.4.1 
+## ✔ readr   2.1.2      ✔ forcats 0.5.2 
+## ── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+## ✖ dplyr::filter() masks stats::filter()
+## ✖ dplyr::lag()    masks stats::lag()</code></pre>
 <div id="r-markdown-guide" class="section level3">
 <h3><a href="https://bookdown.org/yihui/rmarkdown/">R markdown
 guide</a></h3>
@@ -385,6 +394,16 @@ guidlines</a></h3>
 <p>library(rentrez)</p>
 <p>entrez_dbs()</p>
 <p>entrez_db_summary(“nucleotide”)</p>
+<p>nucleotide_search &lt;- entrez_search(db = “nucleotide”, term =
+“ribosome”)</p>
+<p>View(nucleotide_search)</p>
+<p>print(nucleotide_search)</p>
+<p>nucleotide_search$ids</p>
+<p>TYLCV &lt;- entrez_search(db = “protein”, term = “Tomato yellow leaf
+curl virus”)</p>
+<p>print(TYLCV)</p>
+<p>TYLCV$ids</p>
+<p>entrez_dbs()</p>
 <p>r_search &lt;- entrez_search(db=“pubmed”, term=“R Language”)</p>
 <p>r_search</p>
 <p>r_search$ids</p>
@@ -392,6 +411,12 @@ guidlines</a></h3>
 argument.</p>
 <p>another_r_search &lt;- entrez_search(db=“pubmed”, term=“R Language”,
 retmax=40)</p>
+<p>another_r_search</p>
+<p>r_search$ids</p>
+<p>another_r_search2 &lt;- entrez_search(db=“pubmed”, term=“R Language”,
+retmax=60)</p>
+<p>another_r_search2</p>
+<p>another_r_search2$ids</p>
 <p>To access all the IDs from the records, we can use NCBI’s search
 term.</p>
 </div>
