@@ -35,7 +35,7 @@ filter(starwars_cut1, mass <= 77) # <= less than or equal to
 filter(starwars_cut1, mass != 77) # != where mass is NOT equal to 77
 filter(starwars_cut1, mass != 77 | is.na(mass)) # != where mass is NOT equal to 77 or missing (NA)
 filter(starwars_cut1, eye_color == "black" | eye_color == "blue") # "|" specifies "or"
-filter(starwars_cut1, eye_color == "black" | eye_color == "blue") # "&" specifies "and"
+filter(starwars_cut1, eye_color == "black" & eye_color == "blue") # "&" specifies "and"
 filter(starwars_cut1, eye_color %in% c("black","green","blue")) 
 
 # slice is another useful tool 

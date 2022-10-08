@@ -38,6 +38,34 @@ glimpse(ebird_cut2)
 ebird_filter1 <- filter(ebird_cut2, year == 2020)
 ebird_filter1
 
+## I am stuck here with trying to figure out the number of different species observed. 
+
+MBT_ebird2.csv
+colnames(MBT_ebird2.csv)
+
+ebird_select2 <-select(MBT_ebird2.csv, c(location, common_name))
+ebird_select2
+
+ebirdfilter2 <- filter(ebird_select2, common_name == "Red-winged Blackbird")
+ebirdfilter2
+
+
+MBT_ebird2.csv %>% 
+  select(c(location, common_name)) %>%
+  filter(common_name == "Red-winged Blackbird") %>%
+  group_by(location) %>%
+  summarize(count = n()) %>%
+  filter(count == max(count))
+  
+MBT_ebird2.csv %>%
+  select(c(duration, common_name, year, count)) %>%
+  arrange(by = duration, count) %>%
+  filter(duration >= 5) %>%
+  filter(duration <= 200) 
+  
+
+
+
 
 
 

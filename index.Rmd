@@ -6,6 +6,12 @@ output: html_document
 theme: "journal"
 ---
 
+```{r setup, include=FALSE}
+library(tidyverse)
+library(ggplot2)
+```
+
+
 ##### [Dr. Toomey Class Website](https://mbtoomey.github.io/Biol_7263/)
 
 ##### [Dr. Ali Lab Website](http://akhtarvirologylab.utulsa.edu/?_ga=2.103113152.1328270510.1662781666-1960873060.1662405509) 
@@ -37,7 +43,16 @@ Date|Description|File Type|Assignment
 
 
 
- 
+```{r echo=FALSE, message=FALSE}
+g1 <- ggplot(data=mpg) +
+  aes(x=hwy,y=cty) + 
+  geom_point(color="red") + 
+  geom_smooth()
+g1
+```
+
+
+
 
 
 
