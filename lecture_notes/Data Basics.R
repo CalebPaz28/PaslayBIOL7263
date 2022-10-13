@@ -367,7 +367,7 @@ not_cancelled %>%
   summarise(carriers = n_distinct(carrier)) %>%
   arrange(desc(carriers))
 
-
+C
 
 
 

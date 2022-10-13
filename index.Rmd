@@ -9,8 +9,6 @@ theme: "journal"
 ```{r setup, include=FALSE}
 library(tidyverse)
 library(ggplot2)
-install.packages("learnr")
-library(learnr)
 ```
 
 
@@ -40,10 +38,10 @@ Date|Description|Completed|Assignment
 :---|:---|:---|:---
 8.29.22|Rmarkdown 1|YES|[Assignment 1](Assignments/Assignment1.html)
 9.5.22|Rmarkdown 2|YES|[Assignment 2](Assignments/practice_lecture2.html)
-9.12.22|Rmarkdown 3|NO|[Assignment 3]()
-9.19.22|Rmarkdown 4|NO|
-9.26.22|Rmarkdown 5|NO|[Assignment 4]()|[Assignment 5]()
-10.6.22|Rmarkdown 6|NO|[Assignment 6]()
+9.12.22|Rmarkdown 3|NO|[Assignment 3](Assignments/regular_expressions.R)
+9.19.22|Rmarkdown 4|NO|[Assignment 4](Assignments/dplyr_excercises.R)
+9.26.22|Rmarkdown 5|NO||[Assignment 5](Assignments/tidyr_exercise.R)
+10.6.22|Rmarkdown 6|NO|[Assignment 6](Assignments/Assignment6.R)
 10.10.22|Rmarkdown 7|NO|[Assignment 7]()
 10.17.22|Rmarkdown 8|NO|[Assignment 8]()
 
@@ -80,15 +78,6 @@ g1
 ```
 
 
-
-```{r letter-a, echo=FALSE}
-question("What number is the letter A in the English alphabet?",
-  answer("8"),
-  answer("14"),
-  answer("1", correct = TRUE),
-  answer("23")
-)
-```
 
 
 
