@@ -5,11 +5,21 @@
 
 ####Question 1
 ```
-search:
+search:\s{3,}
 Replace:
 ```
-
 ####Question 2
+
+```
+Find:,
+Replace:
+Find:
+Replace:
+  
+  
+  
+  
+```
 
 #### Question 3
 

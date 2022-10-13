@@ -9,6 +9,8 @@ theme: "journal"
 ```{r setup, include=FALSE}
 library(tidyverse)
 library(ggplot2)
+install.packages("learnr")
+library(learnr)
 ```
 
 
@@ -79,6 +81,14 @@ g1
 
 
 
+```{r letter-a, echo=FALSE}
+question("What number is the letter A in the English alphabet?",
+  answer("8"),
+  answer("14"),
+  answer("1", correct = TRUE),
+  answer("23")
+)
+```
 
 
 
