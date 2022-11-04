@@ -28,14 +28,19 @@ library(rentrez) # now we can load rentrez
 library(rentrez)
 
 entrez_dbs() #this option gives us a list of the NCBI databases
+
 entrez_db_summary("nucleotide") #we can specify for a summary of a particular database
+
 entrez_db_summary("protein")
 
 entrez_db_summary() # brief description of what the database is 
+
 entrez_db_searchable() # set of search terms that can be used with a database
+
 entrez_db_links() #set of databases that might contain linked records
 
 entrez_db_summary("nucleotide")
+
 entrez_db_searchable("nucleotide") 
 
 r_search <- entrez_search(db = "pubmed", term = "R language") # we need db (database) 

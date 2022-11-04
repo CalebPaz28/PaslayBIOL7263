@@ -2,13 +2,9 @@
 title: "NCBI rentrenz walkthrough"
 author: "Caleb Paslay"
 date: "`r Sys.Date()`"
-output: html_document
+output: 
+html_document: cerulean
 ---
-
-```{r echo=FALSE, message=FALSE}
-library(tidyverse)
-library(rentrez)
-```
 
 ### What is the problem and the potential solution? 
 
@@ -19,67 +15,65 @@ library(rentrez)
 
 ### Goals for this presentation
 1. Introduction to terms used in rentrez to isolate various search parameters.
-2. Plot the number of publications over time for a given topic. 
+2. Plotting of the number of publications over time for a given topic. 
 
 ### Installation and loading 
 
-Instalation of package "rentrez"
+```{r message=FALSE}
+library(rentrez)
+library(tidyverse)
+library(ggplot2)
+library(glue)
+```
 
-```install.packages("rentrez")``` 
-
-Load the package rentrez
-
-``` library(rentrez) ```
-
-``` library(ggplot2) ```
-
-
-
-
-
-
-
+```{r}
 entrez_dbs()
+```
 
-entrez_db_summary("nucleotide")
+```{r}
+entrez_db_summary(db = "pubmed") #summary of this specific database
+```
 
-nucleotide_search <- entrez_search(db = "nucleotide", term = "ribosome")
+```{r message=FALSE}
+entrez_db_summary(db = "nuccore") #summary of this specific database
+```
 
-View(nucleotide_search)
+```{r}
+entrez_db_links(db = "pubmed") #shows us links to other databases
+```
 
-print(nucleotide_search)
+```{r}
+entrez_db_links(db = "nuccore") #shows us links to other databases
+```
 
-nucleotide_search$ids
+```{r}
+entrez_db_searchable("pubmed") #set a search terms that can be used with a database
+```
 
-TYLCV <- entrez_search(db = "protein", term = "Tomato yellow leaf curl virus")
+```{r echo=FALSE, message=FALSE}
+year <- 1950:2022 #Creating a range from 1950:2022
+alfalfa_search <- glue("alfalfa mosaic virus[TITL]) AND {year}[PDAT]")
 
-print(TYLCV)
 
-TYLCV$ids
+tibble(year = year,
+       alfalfa_search = alfalfa_search) %>% 
+  mutate(alfalfa= map_dbl(alfalfa_search, ~entrez_search(db="pubmed",
+                                                           term = .x)$count))
+       
+search_count <- tibble(year = year,
+                       alfalfa_search = alfalfa_search) %>% 
+  mutate(alfalfa = map_dbl(alfalfa_search, ~entrez_search(db="pubmed",
+                                                        term = .x)$count))
 
-entrez_dbs()
+search_count %>% 
+  ggplot(aes(x= year, y = alfalfa))+
+  theme_bw() +
+  geom_line(color = "blue")
+```
 
-r_search <- entrez_search(db="pubmed", term="R Language") 
 
-r_search
 
-r_search$ids
 
-To increase the number of IDS we can do so by increasing the ret_max argument. 
-
-another_r_search <- entrez_search(db="pubmed", term="R Language", retmax=40)
-
-another_r_search
-
-r_search$ids
-
-another_r_search2 <- entrez_search(db="pubmed", term="R Language", retmax=60)
-
-another_r_search2
-
-another_r_search2$ids
-
-To access all the IDs from the records, we can use NCBI's search term. 
 
 
 
@@ -87,6 +81,9 @@ To access all the IDs from the records, we can use NCBI's search term.
 #Here are some helpful links if you would like to investiage this package more!
 
 [R markdown guide](https://bookdown.org/yihui/rmarkdown/)
+
 [Rmarkdown hyperlinking](https://ucsbcarpentry.github.io/R-markdown/04-links-images-tables/index.html) 
+
 [Entrez guidlines](https://cran.r-project.org/web/packages/rentrez/vignettes/rentrez_tutorial.html) 
+
 
