@@ -355,12 +355,20 @@ pre code {
 <p><strong><a href="https://www.ncbi.nlm.nih.gov/nuccore/?term=alfalfa+mosaic+virus">AMV</a></strong></p>
 <p><strong><a href="https://www.ncbi.nlm.nih.gov/nuccore/?term=alfalfa+mosaic+virus+complete">AMV complete</a></strong></p>
 </div>
+<div id="goals-for-this-presentation" class="section level3">
+<h3>Goals for this presentation</h3>
+<ol style="list-style-type: decimal">
+<li>Introduction to terms used in rentrez to isolate various search parameters.</li>
+<li>Plot the number of publications over time for a given topic.</li>
+</ol>
+</div>
 <div id="installation-and-loading" class="section level3">
 <h3>Installation and loading</h3>
 <p>Instalation of package “rentrez”</p>
 <p><code>install.packages(&quot;rentrez&quot;)</code></p>
 <p>Load the package rentrez</p>
 <p><code>library(rentrez)</code></p>
+<p><code>library(ggplot2)</code></p>
 <p>entrez_dbs()</p>
 <p>entrez_db_summary(“nucleotide”)</p>
 <p>nucleotide_search &lt;- entrez_search(db = “nucleotide”, term = “ribosome”)</p>

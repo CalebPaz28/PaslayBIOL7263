@@ -16,15 +16,27 @@ library(rentrez)
 
 **[AMV complete](https://www.ncbi.nlm.nih.gov/nuccore/?term=alfalfa+mosaic+virus+complete)**
 
-### Installation and loading
+
+### Goals for this presentation
+1. Introduction to terms used in rentrez to isolate various search parameters.
+2. Plot the number of publications over time for a given topic. 
+
+### Installation and loading 
 
 Instalation of package "rentrez"
 
-```install.packages("rentrez")```
+```install.packages("rentrez")``` 
 
 Load the package rentrez
 
-```library(rentrez)```
+``` library(rentrez) ```
+
+``` library(ggplot2) ```
+
+
+
+
+
 
 
 entrez_dbs()
