@@ -69,6 +69,8 @@ Date|Description|Lecture
 
 
 
+
+
 ```{r echo=FALSE, message=FALSE}
 g1 <- ggplot(data=mpg) +
   aes(x=hwy,y=cty) + 

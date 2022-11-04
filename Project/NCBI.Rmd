@@ -10,7 +10,7 @@ require(tidyverse)
 ```
 
 
-
+Here are some helpful links if you would like to investiage this package more!
 
 ### [R markdown guide](https://bookdown.org/yihui/rmarkdown/)
 
@@ -69,4 +69,10 @@ To access all the IDs from the records, we can use NCBI's search term.
 
 
 
+
+#Here are some helpful links if you would like to investiage this package more!
+
+[R markdown guide](https://bookdown.org/yihui/rmarkdown/)
+[Rmarkdown hyperlinking](https://ucsbcarpentry.github.io/R-markdown/04-links-images-tables/index.html) 
+[Entrez guidlines](https://cran.r-project.org/web/packages/rentrez/vignettes/rentrez_tutorial.html) 
 
