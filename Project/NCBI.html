@@ -350,7 +350,6 @@ pre code {
 </div>
 
 
-<pre><code>## Loading required package: tidyverse</code></pre>
 <pre><code>## ── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──
 ## ✔ ggplot2 3.3.6      ✔ purrr   0.3.5 
 ## ✔ tibble  3.1.8      ✔ dplyr   1.0.10
@@ -359,16 +358,11 @@ pre code {
 ## ── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
 ## ✖ dplyr::filter() masks stats::filter()
 ## ✖ dplyr::lag()    masks stats::lag()</code></pre>
-<div id="r-markdown-guide" class="section level3">
-<h3><a href="https://bookdown.org/yihui/rmarkdown/">R markdown guide</a></h3>
-</div>
-<div id="rmarkdown-hyperlinking" class="section level3">
-<h3><a href="https://ucsbcarpentry.github.io/R-markdown/04-links-images-tables/index.html">Rmarkdown hyperlinking</a></h3>
-</div>
-<div id="entrez-guidlines" class="section level3">
-<h3><a href="https://cran.r-project.org/web/packages/rentrez/vignettes/rentrez_tutorial.html">Entrez guidlines</a></h3>
-<p>install.packages(“rentrez”)</p>
-<p>library(rentrez)</p>
+<p>What is the problem and the potential solution?</p>
+<p>Instalation of package “rentrez”</p>
+<p><code>install.packages(&quot;rentrez&quot;)</code></p>
+<p>Load the package rentrez</p>
+<p><code>library(rentrez)</code></p>
 <p>entrez_dbs()</p>
 <p>entrez_db_summary(“nucleotide”)</p>
 <p>nucleotide_search &lt;- entrez_search(db = “nucleotide”, term = “ribosome”)</p>
@@ -390,7 +384,8 @@ pre code {
 <p>another_r_search2</p>
 <p>another_r_search2$ids</p>
 <p>To access all the IDs from the records, we can use NCBI’s search term.</p>
-</div>
+<p>#Here are some helpful links if you would like to investiage this package more!</p>
+<p><a href="https://bookdown.org/yihui/rmarkdown/">R markdown guide</a> <a href="https://ucsbcarpentry.github.io/R-markdown/04-links-images-tables/index.html">Rmarkdown hyperlinking</a> <a href="https://cran.r-project.org/web/packages/rentrez/vignettes/rentrez_tutorial.html">Entrez guidlines</a></p>
 
 
 

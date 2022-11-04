@@ -6,24 +6,22 @@ output: html_document
 ---
 
 ```{r echo=FALSE}
-require(tidyverse)
+library(tidyverse)
+library(rentrez)
 ```
 
-
-Here are some helpful links if you would like to investiage this package more!
-
-### [R markdown guide](https://bookdown.org/yihui/rmarkdown/)
-
-
-### [Rmarkdown hyperlinking](https://ucsbcarpentry.github.io/R-markdown/04-links-images-tables/index.html) 
-
-### [Entrez guidlines](https://cran.r-project.org/web/packages/rentrez/vignettes/rentrez_tutorial.html) 
+What is the problem and the potential solution? 
 
 
 
-install.packages("rentrez")
+Instalation of package "rentrez"
 
-library(rentrez)
+```install.packages("rentrez")```
+
+Load the package rentrez
+
+```library(rentrez)```
+
 
 entrez_dbs()
 

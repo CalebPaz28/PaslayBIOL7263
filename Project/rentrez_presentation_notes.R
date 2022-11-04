@@ -11,10 +11,11 @@ snippet ## ---------------------------
 ##
 ## ---------------------------
 ##
-## Notes:
-##   
+## Notes: Presentation Notes 
+##  
 ##
 ## ---------------------------
+
 
 ## Helpful points (Key terms for entrez_fetch) 
 (Link)[https://www.ncbi.nlm.nih.gov/books/NBK25499/table/chapter4.T._valid_values_of__retmode_and/]
@@ -22,10 +23,9 @@ snippet ## ---------------------------
 install.packages("rentrez")
 ## load the packages needed:  
 
-require(tidyverse)
 install.packages("rentrez") #first we will need to install the package
 library(rentrez) # now we can load rentrez
-require(rentrez)
+library(rentrez)
 
 entrez_dbs() #this option gives us a list of the NCBI databases
 entrez_db_summary("nucleotide") #we can specify for a summary of a particular database
