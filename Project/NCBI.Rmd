@@ -1,18 +1,22 @@
 ---
-title: "NCBI Rentrenz walkthrough"
+title: "NCBI rentrenz walkthrough"
 author: "Caleb Paslay"
 date: "`r Sys.Date()`"
 output: html_document
 ---
 
-```{r echo=FALSE}
+```{r echo=FALSE, message=FALSE}
 library(tidyverse)
 library(rentrez)
 ```
 
-What is the problem and the potential solution? 
+### What is the problem and the potential solution? 
 
+**[AMV](https://www.ncbi.nlm.nih.gov/nuccore/?term=alfalfa+mosaic+virus)**
 
+**[AMV complete](https://www.ncbi.nlm.nih.gov/nuccore/?term=alfalfa+mosaic+virus+complete)**
+
+### Installation and loading
 
 Instalation of package "rentrez"
 
