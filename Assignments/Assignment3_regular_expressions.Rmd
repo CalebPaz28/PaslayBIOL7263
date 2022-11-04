@@ -1,0 +1,63 @@
+---
+title: "Assignment_3_regular_expressions"
+author: "Caleb Paslay"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+[Link for Assignment 3](https://mbtoomey.github.io/Biol_7263/Assignments/Assignment3.html)
+
+###Question 1
+Before:
+```
+search:\s{3,} #Ths replaced the extra spaces. 
+Replace: 
+```
+###Question 2
+```
+Find:,
+Replace: nothing
+Find:\. #to find the first period
+Replace: nothing
+Find: #I was not able to figure out how to replace the initial.
+Replace:
+```
+### Question 3
+```
+find:\,
+replace: space #This removed all commas. 
+find:
+replace:
+```
+### Question 4 
+```
+
+```
+#### Question 5
+```
+
+```
+#### Question 6 Create a new file that contains only the fasta headers (lines that begin with >) from your file.
+```
+sed 's/regex/elements to keep/' file_input > file_output 
+
+sed 's/\(\>\w*\..\).*.(\(...*\)).*/\1 \2/' american_bullfrog_genome_.fna> EXAMPLE 
+
+sed 's/\(\>\w*\..\).*.(\(...*\)).*/\1 \2/' protein.faa > protein_header.fna
+
+Use ```less``` command to show the contents of a file 
+
+sed 's/>/ \n\>/g' file.txt | sed -n '/RHO/,/^ /p' > RHO.txt
+```
+[American bullfrog headers](Data/american_bullfrog_genome_header.fna)
+
+#### Question 7 Create a new file that contains the full sequences of only the ribosomal transcripts or proteins.
+```
+sed 's/>/ \n\>/g' file.txt | sed -n '/RHO/,/^>/p' > RHO.txt
+This command will search for text within the file. 
+```
+[Mitochondrion of Bullfrog](Data/american_bullfrog_genome_mitochondrion.fna)

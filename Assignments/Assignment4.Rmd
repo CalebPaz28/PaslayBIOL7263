@@ -1,0 +1,21 @@
+[My Script](dpylr_assignment.R)
+
+
+```In which year did I observe the most individual birds? How many?```
+2020 and 3154 birds were observed. 
+
+```In that year how many different species of birds did I observe?```
+745
+
+```In which state did I most frequently observe Red-winged Blackbirds?```
+US-OK
+
+```Filter observations for a duration between 5 and 200 minutes. Calculate the mean rate per checklist that I encounter species each year. Specifically, calculate the number of species in each checklist divided by duration and then take the mean for the year.```
+
+
+[Data frame](Data/mean_num.csv)
+
+
+```Create a tibble that includes the complete observations for the top 10 most frequently observed species. First generate a top 10 list and then use this list to filter all observations. Export this tibble as a .csv file saved to a folder called “Results” folder within your R project and add link to the markdown document.```
+
+[Tibble of top 10 most observed birds](Data/ebirdcut_5.csv)
