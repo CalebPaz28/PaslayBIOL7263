@@ -1,0 +1,122 @@
+---
+title: "Exams Walkthrough"
+author: "Caleb Paslay"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+```
+### Plan for the lesson
+1. Install and Load Exams package.
+2. Generate a question as an Rmd file.
+3. Types of questions we can create. 
+4. Check question integrity using the console. 
+5. Proceed to next question. 
+6. Generate up to ~50 questions per examination. 
+7. 
+
+#### 1. Installation and Loading **Exams** package
+```
+install.packages("exams")
+```
+```
+library(exams)
+```
+#### 2. General Structure of a question
+```
+Question
+========
+On what date does the summer solstice occur? 
+  
+  
+answerlist
+----------
+* 
+* 
+* 
+* 
+
+
+meta-information
+================
+exname: 
+extype: 
+exsolution: 
+exshuffle: 
+```
+#### 3. Types of questions we can create
+schoice - single choice
+mchoice - multiple choice
+num - numeric
+character - string
+cloze - combination of the above 
+
+
+##### 3.2 True or False
+```
+Question
+========
+Science is awesome!  
+  
+answerlist
+----------
+* True
+* False
+
+meta-information
+================
+exname: Science Q
+extype: schoice
+exsolution: 1000 
+exshuffle:4 
+```
+##### 3.3 Single Choice
+```
+Question
+========
+Grad school is rad school!  
+  
+answerlist
+----------
+* True
+* False
+
+meta-information
+================
+exname: Science Q
+extype: schoice
+exsolution: 10 
+exshuffle:TRUE 
+```
+##### Multiple Choice
+
+
+
+#### 4. Confirm that the question renders correctly. 
+We can use the consule to confirm that our questions are rendering correctly,
+before we proceed to constructing the test. We can use the function `exams2html(file = "file path")` or `exams2pdf(file = "file path")` available in the Exams package.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Other Resources
+
+##### [R Exams Website](https://www.r-exams.org/) 
+
+
+
+
+

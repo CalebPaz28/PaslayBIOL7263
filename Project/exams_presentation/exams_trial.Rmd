@@ -1,0 +1,21 @@
+Question
+========
+Science is awesome!  
+  
+answerlist
+----------
+* True
+* False
+* Possibly
+* Debatable
+* Nah brah.
+* Sure. 
+* Whatever. 
+
+
+meta-information
+================
+exname: Science Q
+extype: schoice
+exsolution: 1000000 
+exshuffle:4 
