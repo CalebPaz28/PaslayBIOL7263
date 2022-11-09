@@ -67,8 +67,9 @@ Date|Description|Lecture
 12.8.22|
 
 
-# My Lesson
-[rentrez package](Project/NCBI.html)
+### My Lesson 
+
+#### [rentrez walkthrough](Project/NCBI.html)
 
 
 

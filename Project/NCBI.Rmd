@@ -83,6 +83,9 @@ search_count %>%
 ### Here are some helpful links if you would like to investiage this package more!
 
 [rentrez guidlines](https://cran.r-project.org/web/packages/rentrez/vignettes/rentrez_tutorial.html) 
-[rentrez pdf](https://cran.r-project.org/web/packages/rentrez/rentrez.pdf)
-[rentrez in practice](https://docs.ropensci.org/rentrez/)
+
+[rentrez pdf](https://cran.r-project.org/web/packages/rentrez/rentrez.pdf) 
+
+[rentrez in practice](https://docs.ropensci.org/rentrez/) 
+
 
