@@ -1,8 +1,8 @@
 snippet ## ---------------------------
 ##
-## Script name: Rentrez?Entrez Walkthrough 
+## Script name: Rentrez:Entrez Walkthrough 
 ##
-## Purpose of script: 
+## Purpose of script: To present information related to rentrez package
 ##
 ## Author: Caleb Paslay
 ##
@@ -17,8 +17,6 @@ snippet ## ---------------------------
 ## ---------------------------
 
 
-## Helpful points (Key terms for entrez_fetch) 
-(Link)[https://www.ncbi.nlm.nih.gov/books/NBK25499/table/chapter4.T._valid_values_of__retmode_and/]
 
 install.packages("rentrez")
 ## load the packages needed:  

@@ -15,7 +15,8 @@ html_document: cerulean
 
 ### Goals for this presentation
 1. Introduction to terms used in rentrez to isolate various search parameters.
-2. Plotting of the number of publications over time for a given topic. 
+2. Fetching and summarizing information
+3. Plotting the data.  
 
 ### Installation and loading 
 
@@ -50,6 +51,11 @@ entrez_db_links(db = "nuccore") #shows us links to other databases
 entrez_db_searchable("pubmed") #set a search terms that can be used with a database
 ```
 
+```{r}
+AMV_search <- entrez_search(db = "nuccore", 
+                            term = "alfalfa mosaic virus", retmax = 20)
+```
+
 ```{r echo=FALSE, message=FALSE}
 year <- 1950:2022 #Creating a range from 1950:2022
 alfalfa_search <- glue("alfalfa mosaic virus[TITL]) AND {year}[PDAT]")
@@ -69,21 +75,14 @@ search_count %>%
   ggplot(aes(x= year, y = alfalfa))+
   theme_bw() +
   geom_line(color = "blue")
+
 ```
 
 
 
+### Here are some helpful links if you would like to investiage this package more!
 
-
-
-
-
-#Here are some helpful links if you would like to investiage this package more!
-
-[R markdown guide](https://bookdown.org/yihui/rmarkdown/)
-
-[Rmarkdown hyperlinking](https://ucsbcarpentry.github.io/R-markdown/04-links-images-tables/index.html) 
-
-[Entrez guidlines](https://cran.r-project.org/web/packages/rentrez/vignettes/rentrez_tutorial.html) 
-
+[rentrez guidlines](https://cran.r-project.org/web/packages/rentrez/vignettes/rentrez_tutorial.html) 
+[rentrez pdf](https://cran.r-project.org/web/packages/rentrez/rentrez.pdf)
+[rentrez in practice](https://docs.ropensci.org/rentrez/)
 
