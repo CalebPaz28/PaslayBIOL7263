@@ -70,14 +70,12 @@ Toomey_coloration <- entrez_search(db = "pubmed",
 View(Toomey_coloration)
 
 Toomey_coloration <- entrez_search(db = "pubmed",
-                                   term = "Toomey MB[AUTH] AND bird coloration")$ids
+                                   term = "Toomey MB[AUTH] AND bird coloration")
 
 View(Toomey_coloration)
 
 entrez_fetch(db = "pubmed",
-             id = "Toomey_coloration") #This will give us an error. We need to specify rettype
-
-#having trouble with the fetch function..
+             id = Toomey_coloration$ids, rettype = "fasta") 
 
 
 entrez_search(db = "pubmed",

@@ -50,8 +50,6 @@ search_year <- function(year, term){
 year <- 1980:2020
 papers <- sapply(year, search_year, term ="Connectome", USE.NAMES = FALSE)
 
-
-
 plot(year, papers, type ='b', main = "the rise of the connectome")
 
 
@@ -156,6 +154,33 @@ class(all_pydv_search1)
 nchar(all_pydv_search1)
 
 write(all_pydv_search1, file ="my_transcripts.fasta")
+
+
+gene_ids <- c(351, 11647)
+linked_seq_ids <- entrez_link(dbfrom="gene", id=gene_ids, db="nuccore")
+linked_transcripts <- linked_seq_ids$links$gene_nuccore_refseqrna 
+head(linked_transcripts)
+linked_transcripts
+
+all_recs <- entrez_fetch(db="nuccore", id=linked_transcripts, rettype="fasta")
+class(all_recs)
+nchar(all_recs)
+
+cat(strwrap(substr(all_recs, 1, 500)), sep="\n")
+# Write the command to a file 
+write(all_recs, file="my_transcripts.fasta")
+
+temp <- tempfile()
+write(all_recs, temp)
+parsed_recs <- ape::read.dna(all_recs, temp)
+
+# We can fetch parsed XML documents
+Tt <- entrez_search(db="taxonomy", term="(Tetrahymena thermophila[ORGN]) AND Species[RANK]")
+tax_rec <- entrez_fetch(db="taxonomy", id=Tt$ids, rettype="xml", parsed=TRUE)
+class(tax_rec)
+tax_list <- XML::xmlToList(tax_rec)
+
+tax_list&Taxon&GeneticCode
 
 
 
