@@ -70,6 +70,7 @@ Date|Description|Lecture
 ### My Lesson 
 
 #### [rentrez walkthrough](Project/NCBI.html)
+#### [Rentrez notes](Project/rentrez_presentation_notes.R)
 
 
 
