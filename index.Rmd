@@ -33,7 +33,7 @@ I am generally interested in understanding the relationship between a pathologic
 knitr::include_graphics("8.19.22_All_(1).JPEG")
 ```
 
-##### Table of Assignments
+##### **Table of Assignments**
 Date|Description|Completed|Assignment 
 :---|:---|:---|:---
 8.29.22|Introduction to Git|Yes|[Assignment 1](Assignments/Assignment1.html)
@@ -47,11 +47,11 @@ Date|Description|Completed|Assignment
 10.31.22|AIC and PCA||[Assignment 9](Assignments/lecture_notes/lecture10_student_presentation.R)
 11.10.22|Rentrez and ....||[Assignment 10]()
 
-##### Table of Lecture Notes and Scripts 
+##### **Table of Lecture Notes and Scripts**
 Date|Description|Lecture
 :---|:---|:---|:---
 8.29.22|Paper notes|
-9.5.22|Lecture2|[Lecture 2-Rmarkdown](Assignments/lecture_notes/lecture2notes.R)
+9.5.22|Lecture 2|[Lecture 2-Rmarkdown](Assignments/lecture_notes/lecture2notes.R)
 9.12.22|Lecture 3|[Lecture 3-Regular Expressions](Assignments/lecture_notes/lecture3notes.R)
 9.19.22|Lecture 4|[Lecture 4-Intro to R](Assignments/lecture_notes/lecture4notes.R) -- [Lecture 4-dplyr](Assignments/lecture_notes/working_with_dplyr.R)
 9.26.22|Lecture 5|[Lecture 5-tidy, merge, compare](Assignments/lecture_notes/lecture5notes.R)
@@ -70,7 +70,7 @@ Date|Description|Lecture
 ### My Lesson 
 
 #### [rentrez walkthrough](Project/NCBI.html)
-#### [Rentrez notes](Project/rentrez_presentation_notes.R)
+#### [Rentrez lecture notes](Project/rentrez_presentation_notes.R)
 
 
 

@@ -273,7 +273,7 @@ search_count_2 %>%
 
 #Excercises 
 
-# 1. Create a search of a organism or set of organisms. 
+# 1. Create a search of a topic, organism, etc. 
 # 2. Use the summary or fetch arguement to extract relavent information to your search. 
 # 3. Create a plot to see how this topic has been reported on over a particular time span. 
 
