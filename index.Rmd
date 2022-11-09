@@ -45,7 +45,7 @@ Date|Description|Completed|Assignment
 10.17.22|GIS in R|Yes|[Assignment 7](Assignments/Assignment-7.html)
 10.24.22|Acuity View and Loops|Yes|[Assignment 8](Assignments/lecture_notes/lecture9_student_presentation.R)
 10.31.22|AIC and PCA||[Assignment 9](Assignments/lecture_notes/lecture10_student_presentation.R)
-11.10.22|Rentrez and ....||[Assignment 9]()
+11.10.22|Rentrez and ....||[Assignment 10]()
 
 ##### Table of Lecture Notes and Scripts 
 Date|Description|Lecture
