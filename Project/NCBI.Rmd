@@ -1,5 +1,5 @@
 ---
-title: "NCBI rentrenz walkthrough"
+title: "NCBI rentrez walkthrough"
 author: "Caleb Paslay"
 date: "`r Sys.Date()`"
 output: 
