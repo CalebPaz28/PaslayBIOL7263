@@ -1,3 +1,5 @@
+
+library(rentrez)
 # Pepper virus search 
 pepper_virus_search <- entrez_search(db = "pubmed", term = "(pepper viruses OR capsicum viruses) AND 1950:2022[PDAT]")
 pepper_virus_search
@@ -51,6 +53,9 @@ g2<- all_plant_counts %>%
 
 install.packages("patchwork")
 library(patchwork)
+
+g2
+
 
 g1 / g2
 
