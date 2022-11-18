@@ -45,25 +45,25 @@ Date|Description|Completed|Assignment
 10.17.22|GIS in R|Yes|[Assignment 7](Assignments/Assignment-7.html)
 10.24.22|Acuity View and Loops|Yes|[Assignment 8](Assignments/lecture_notes/lecture9_student_presentation.R)
 10.31.22|AIC and PCA||[Assignment 9](Assignments/lecture_notes/lecture10_student_presentation.R)
-11.10.22|Rentrez and ....||[Assignment 10]()
+11.10.22|Phylo_activity||[Assignment 10](Assignments/phylo_assignment.html)
 
 ##### **Table of Lecture Notes and Scripts**
 Date|Description|Lecture
 :---|:---|:---|:---
 8.29.22|Paper notes|
-9.5.22|Lecture 2|[Lecture 2-Rmarkdown](Assignments/lecture_notes/lecture2notes.R)
-9.12.22|Lecture 3|[Lecture 3-Regular Expressions](Assignments/lecture_notes/lecture3notes.R)
-9.19.22|Lecture 4|[Lecture 4-Intro to R](Assignments/lecture_notes/lecture4notes.R) -- [Lecture 4-dplyr](Assignments/lecture_notes/working_with_dplyr.R)
-9.26.22|Lecture 5|[Lecture 5-tidy, merge, compare](Assignments/lecture_notes/lecture5notes.R)
-10.6.22|Lecture 6|[Lecture 6-intro to ggplot2](Assignments/lecture_notes/lecture6notes.R)
-10.13.22|Lecture 7|[Lecture 7-inkscape](Assignments/lecture_notes/lecture7notes.R)
-10.20.22|Lecture 8|[Lecture 8-GIS in R](Assignments/lecture_notes/lecture8notes.R)
-10.27.22|Lecture 9|[Lecture 9 - Student Presentation](Assignments/lecture_notes/lecture9_student_presentation.R)
-11.3.22|Lecture 10|[Lecture 10 - Student Presentation](Assignments/lecture_notes/lecture10_student_presentation.R)
-11.10.22|My Presentation Day|[Entrez Workthrough](Project/rentrez_presentation_notes.R)
-11.17.22|
-11.24.22|
-12.1.22|
+9.5.22|Lecture 2|[Rmarkdown](Assignments/lecture_notes/lecture2notes.R)
+9.12.22|Lecture 3|[regular expressions](Assignments/lecture_notes/lecture3notes.R)
+9.19.22|Lecture 4|[intro to R](Assignments/lecture_notes/lecture4notes.R) -- [Lecture 4-dplyr](Assignments/lecture_notes/working_with_dplyr.R)
+9.26.22|Lecture 5|[tidy, merge, compare](Assignments/lecture_notes/lecture5notes.R)
+10.6.22|Lecture 6|[intro to ggplot2](Assignments/lecture_notes/lecture6notes.R)
+10.13.22|Lecture 7|[inkscape](Assignments/lecture_notes/lecture7notes.R)
+10.20.22|Lecture 8|[GIS in R](Assignments/lecture_notes/lecture8notes.R)
+10.27.22|Lecture 9|[aquity view & for_loops](Assignments/lecture_notes/lecture9_student_presentation.R)
+11.3.22|Lecture 10|[AIC & PCA](Assignments/lecture_notes/lecture10_student_presentation.R)
+11.10.22|My Presentation Day|[entrez workthrough](Project/rentrez_presentation_notes.R)
+11.17.22|Lecture 11|[geomorph & phytools](Assignments/lecture_notes/lecture11_student_presentation.R)
+11.24.22|Lecture 12|
+12.1.22|Lecture 13|
 12.8.22|
 
 

@@ -127,9 +127,16 @@ View(multi_extract) # multiple elements extracted
 multi_brca_extract <- extract_from_esummary(brca1_multi_summ, c("title", "pubtype", "pubdate", "authors"), simplify = TRUE)
 View(multi_brca_extract)
 
+multi_frame <- as.data.frame(t(multi_brca_extract))
+View(multi_frame)
+
 
 brca_data <- data.frame(multi_brca_extract)
 View(brca_data)
+
+
+
+# try as.data.frame(t())
 
 #######################################################################################################
 

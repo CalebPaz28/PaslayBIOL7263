@@ -1,0 +1,25 @@
+---
+title: "Phylo_assignment"
+author: "Caleb Paslay"
+output: html_document
+theme: "journal"
+---
+
+```{r message = FALSE}
+library(phytools)
+library(geiger)
+library(diversitree)
+library(mapplots)
+```
+
+1. Create a family level tree with 8 tips in a clade of interest. 
+2. Change the color of the tree to something besides the default
+
+```{r message = FALSE}
+bpev <- "(((BPEV_healey, BPEV_Feher), (BPEV_Marengo2, BPEV_Maor)), (BPEV_IS, BPEV_Kyosuzo), (BPEV_Santa, BPEV_Penol));"
+bpev_tree <- read.tree(text =bpev)
+plot(bpev_tree)
+
+bpev_plot <- plotTree(bpev_tree, fsize = 0.8, ftype = "i", color = "darkred")
+```
+
