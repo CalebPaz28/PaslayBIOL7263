@@ -67,7 +67,8 @@ g1 / g2
 #Searching the nuccore / nucleotide database
 
 year <- 1950:2020
-pepper_search <- glue("(TYLCV OR tomato yellow leaf curl virus) AND {year}[PDAT]")
+year_2 <- 2000:2020 #could use this for another search 
+pepper_search <- glue("(TYLCV OR tomato yellow leaf curl virus complete) AND {year}[PDAT]")
 pepper_counts <- tibble(year = year,
                         pepper_search = pepper_search) %>% 
   mutate(pepper_search = map_dbl(pepper_search, ~entrez_search(db="nuccore",term = .x)$count))
@@ -87,6 +88,7 @@ g2<- pepper_counts %>%
   theme_bw()
 
 g2
+
 
 
 
