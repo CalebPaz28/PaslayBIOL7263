@@ -51,8 +51,12 @@ g2<- all_plant_counts %>%
   geom_point(color = "black")+
   theme_bw()
 
+
+
 install.packages("patchwork")
 library(patchwork)
+library(ggplot2)
+library(tidyverse)
 
 g2
 
