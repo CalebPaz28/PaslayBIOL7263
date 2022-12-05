@@ -230,12 +230,128 @@ for (i in 1:nrow(iris_pca$loadings)) {
                                 iris_pca$loadings[i,1:3]))
 }
 
-
-
 library(readxl)
 
 cartmell_NLCD_rlesson <- read_excel("Assignments/Data/Cartmell_NLCD_Rlesson.xlsx")
 
 
+####### Practice with functions
 
+fahrenheit_to_celsius <- function(temp_F) {
+  temp_C <- (temp_F - 32) * 5 / 9
+  return(temp_C)
+}
+
+# Freezing point of water
+fahrenheit_to_celsius(32)
+# Boiling point of water
+fahrenheit_to_celsius(212)
+
+
+celsius_to_kelvin <- function(Temp_C) {
+  temp_K <- 
+}
+
+fahrenheit_to_kelvin <- function(temp_F) {
+  temp_C <- fahrenheit_to_celsius(temp_F)
+  temp_K <- celsius_to_kelvin(temp_C)
+  return(temp_K)
+}
+
+
+my_function <- function() { # create a function with the name my_function
+  print("Hello World!")
+}
+
+my_function() #call the function
+
+
+my_function <- function(fname) {
+  paste(fname, "Griffin")
+}
+
+my_function("Peter")
+my_function("Lois")
+my_function("Stewie")
+
+
+
+my_function <- function(lname){
+  paste("Peter", lname)
+}
+
+my_function("Lois")
+
+my_function <- function(fname, lname){
+  paste(fname, lname)
+}
+
+my_function("Caleb", "Paslay")
+
+my_function("Caleb")
+
+#Using a default Parameter
+my_function <- function(country = "Norway"){
+  paste("I am from", country)
+}
+
+my_function("Sweden")
+my_function()
+
+
+# Using the return function
+my_function <- function(x){
+  return(5 * x)
+}
+
+my_function()
+
+nested_function <- function(x,y){
+  a <- x + y
+  return(a)
+}
+
+Nested_function(Nested_function(2,2), Nested_function(3,3))
+
+nested_function(2,2)
+
+
+outer_function <- function(x){
+  inner_function <- function(y){
+    a <- x + y
+    return(a)
+  }
+  return(inner_function)
+}
+
+output <- outer_function(3) # To call the Outer_func
+output(5)
+
+
+# Recursion of a function (call itself)
+
+tri_recursion <- function(k){
+  if (k > 0){
+    result <- k + tri_recursion(k-1)
+    print(result)
+  } else {
+    result = 0
+    return(result)
+  }
+}
+
+tri_recursion(6)
+
+
+
+
+
+# Trying a nested function for m1v1 = m2v2
+
+nested_m1v1_function <- function(m1,v1 =1,m2 =1,v2 =1){
+  m1v1 <- m1 * v1 
+
+}
+
+nested_m1v1_function(200, ,50,250)
 

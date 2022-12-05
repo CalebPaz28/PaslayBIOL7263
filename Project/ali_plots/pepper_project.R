@@ -52,9 +52,65 @@ g2<- all_plant_counts %>%
   theme_bw()
 
 
+novel_search <- entrez_search(db = "pubmed", 
+                              term = "(novel plant viruses OR undescribed plant viruses) AND 1950:2020[PDAT]")
+
+novel_search
+
+
+
+## Plot novel plant virus reports
+
+year <- 1950:2020
+novel_virus_search <- glue("(novel plant viruses OR undescribed plant viruses) AND {year}[PDAT]")
+all_plant_counts <- tibble(year = year,
+                           novel_virus_search = novel_virus_search) %>% 
+  mutate(novel_virus_search = map_dbl(novel_virus_search, ~entrez_search(db="pubmed",term = .x)$count))
+
+novel_plot <- all_plant_counts %>% 
+  select(year,novel_virus_search) %>% 
+  pivot_longer(-year) %>% 
+  ggplot(aes(x = year,
+             y = value,
+             group = name,
+             color = name))+
+  geom_line(size = 1)+
+  geom_smooth(size =1)+
+  geom_point(color = "black")+
+  theme_bw()
+
+novel_plot
+
+### Plotting NGS reports over the same time span
+
+#Initial search of the pubmed database
+ngs_i_search <- entrez_search(db = "pubmed", term = "(NGS plant virus OR next generation sequencing plant virus) AND 1950:2020[PDAT]")
+ngs_i_search
+
+year <- 1950:2020
+ngs_search <- glue("(NGS plant virus OR next generation sequencing plant virus) AND {year}[PDAT]")
+ngs_search_counts <- tibble(year = year,
+                            ngs_search = ngs_search) %>% 
+  mutate(ngs_search = map_dbl(ngs_search, ~entrez_search(db="pubmed",term = .x)$count))
+
+ngs_plot <- ngs_search_counts %>% 
+  select(year,ngs_search) %>% 
+  pivot_longer(-year) %>% 
+  ggplot(aes(x = year,
+             y = value,
+             group = name,
+             color = name))+
+  geom_line(size = 1)+
+  geom_smooth(size =1)+
+  geom_point(color = "black")+
+  theme_bw()
+
+ngs_plot
+
 
 install.packages("patchwork")
 library(patchwork)
+library(glue)
 library(ggplot2)
 library(tidyverse)
 
