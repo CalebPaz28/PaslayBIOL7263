@@ -1,7 +1,69 @@
-```Pivot and merge these two data sets into a single tidy tibble. Export this tibble as a .csv file saved to a folder called “Results” folder within your R project.```
+```{r}
+library(tidyverse) #load the required packages
+library(dplyr)
+library(readr)
+```
 
-```With this tidy tibble, generate a new tibble of the mean +/- standard deviation of the residual mass (mass/body length) by treatment and sex. Export this tibble as a .csv file saved to a folder called “Results” folder within your R project.```
+### 1. Pivot and merge these two data sets into a single tidy tibble. Export this tibble as a .csv file saved to a folder called “Results” folder within your R project.
 
-```In an Rmarkdown document present the code you used to pivot, merge, etc. and the links to the commented R script and final .csv files stored in your Data folder. Knit this to an html file and link on your portfolio page.```
+```{r part 1}
+part_1 <- read.csv("https://raw.githubusercontent.com/mbtoomey/Biol_7263/main/Data/assignment6part1.csv")
+colnames(part_1)
+
+part_1_1 <-  pivot_longer(part_1, cols = 2:21, names_to = c("sample_id", "sex", "test"), names_sep = "_")
+
+part_1_2 <- pivot_wider(part_1_1, names_from = ID, values_from = value)
+```
+
+#### **[Part 1 : Pivot](Data/part1_pivot.csv)**
+
+```{r part 2}
+part_2 <- read_csv(file = "https://raw.githubusercontent.com/mbtoomey/Biol_7263/main/Data/assignment6part2.csv")
+
+part2_1 <- pivot_longer(part_2, cols = 2:17, 
+                        names_to = c("sample_id", "test"), 
+                        names_sep = "\\.")  #\\ are needed for R to recognize the period (thanks Amy!)
+part_2_2 <- pivot_wider(part2_1, names_from = ID, values_from = value)
+```
+
+#### **[Part 2: Pivot](Data/part_2_pivot.csv)**
+
+```{r merging data}
+## Merging data (trying inner join)
+part_1_2 %>% 
+  inner_join(part_2_2, by = c("sample_id", "test"))
+# I was able to merge, but could not figure out how to keep, 
+# Sample 1 and Sample 2 in the final merge. 
+
+# Merging data (using full join function)
+part_1_2 %>% 
+  full_join(part_2_2, by = c("sample_id", "test")) 
+```
+
+#### **[Part 3: Merging the two data tables](Data/tidy_data.csv)**
+
+### 2. With this tidy tibble, generate a new tibble of the mean +/- standard deviation of the residual mass (mass/body length) by treatment and sex. Export this tibble as a .csv file saved to a folder called “Results” folder within your R project.
+
+```{r}
+tidy_data <- read_csv("Data/tidy_data.csv")
+```
+
+
+```{r}
+
+tidy_data %>% 
+  mutate(residual_mass = mass / body_length) %>% 
+  select(test, sex, residual_mass) %>% 
+  group_by(test) %>%
+  summarize(mean_mass=mean(residual_mass, na.rm=TRUE), #removing NA's is important here.
+            SD_mass=sd(residual_mass, na.rm=TRUE)) %>% 
+  write.csv("Data/mean_&_SD.csv")
+```
+
+#### **[Part 4: Summarizing data](Data/mean_&_SD.csv)**
+
+### 3. In an Rmarkdown document present the code you used to pivot, merge, etc. and the links to the commented R script and final .csv files stored in your Data folder. Knit this to an html file and link on your portfolio page.
+
+#### **[My R Script](tidyr_exercise.R)**
 
 

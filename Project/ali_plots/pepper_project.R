@@ -113,9 +113,38 @@ library(patchwork)
 library(glue)
 library(ggplot2)
 library(tidyverse)
+library(glue)
 
 g2
 
 
 g1 / g2
+
+#Searching the nuccore / nucleotide database
+
+year <- 1950:2020
+year_2 <- 2000:2020 #could use this for another search 
+pepper_search <- glue("(TYLCV OR tomato yellow leaf curl virus complete) AND {year}[PDAT]")
+pepper_counts <- tibble(year = year,
+                        pepper_search = pepper_search) %>% 
+  mutate(pepper_search = map_dbl(pepper_search, ~entrez_search(db="nuccore",term = .x)$count))
+
+
+
+g2<- pepper_counts %>% 
+  select(year,pepper_search) %>% 
+  pivot_longer(-year) %>% 
+  ggplot(aes(x = year,
+             y = value,
+             group = name,
+             color = name))+
+  geom_line(size = 1)+
+  geom_smooth(size =1)+
+  geom_point(color = "black")+
+  theme_bw()
+
+g2
+
+
+
 

@@ -35,18 +35,18 @@ knitr::include_graphics("8.19.22_All_(1).JPEG")
 ```
 
 ##### **Table of Assignments**
-Date|Description|Completed|Assignment 
-:---|:---|:---|:---
-8.29.22|Introduction to Git|Yes|[Assignment 1](Assignments/Assignment1.html)
-9.5.22|Introduction to R|Yes|[Assignment 2](Assignments/practice_lecture2.html)
-9.12.22|Regular Expressions|Yes|[Assignment 3](Assignments/Assignment3_regular_expressions.html)
-9.19.22|Dplyr|Yes|[Assignment 4](Assignments/Assignment4.html)
-9.26.22|tidyr|No|[Assignment 5]()
-10.10.22|GGPLOT2|No|[Assignment 6]()
-10.17.22|GIS in R|Yes|[Assignment 7](Assignments/Assignment-7.html)
-10.24.22|Acuity View and Loops|Yes|[Assignment 8](Assignments/lecture_notes/lecture9_student_presentation.R)
+Date|Description|Assignment 
+:---|:---|:---|
+8.29.22|Introduction to Git|[Assignment 1](Assignments/Assignment1.html)
+9.5.22|Introduction to R|[Assignment 2](Assignments/practice_lecture2.html)
+9.12.22|Regular Expressions|[Assignment 3](Assignments/Assignment3_regular_expressions.html)
+9.19.22|Dplyr|[Assignment 4](Assignments/Assignment4.html)
+9.26.22|tidyr|[Assignment 5](Assignments/assignment5_tidyr.html)
+10.10.22|GGPLOT2|[Assignment 6]()
+10.17.22|GIS in R|[Assignment 7](Assignments/Assignment-7.html)
+10.24.22|Acuity View and Loops|[Assignment 8](Assignments/lecture_notes/lecture9_student_presentation.R)
 10.31.22|AIC and PCA||[Assignment 9](Assignments/lecture_notes/lecture10_student_presentation.R)
-11.10.22|Phylo_activity||[Assignment 10](Assignments/phylo_assignment.html)
+11.10.22|Phylo_activity|[Assignment 10](Assignments/phylo_assignment.html)
 
 ##### **Table of Lecture Notes and Scripts**
 Date|Description|Lecture
