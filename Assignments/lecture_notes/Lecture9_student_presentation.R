@@ -191,6 +191,16 @@ AcuityView(photo = img,
            plot = T, 
            output = "Assignments/Images/3_m_ostrich.jpg") #3 meters
 
+
+AcuityView(photo = img, 
+           distance = 10,  # representing 10 meter distance
+           realWidth = 0.25, # representing size of object (fish in this case)
+           eyeResolutionX = .0505, #take 1/VA (visual aquity) Ex. = 1/19.8
+           eyeResolutionY = NULL, 
+           plot = T, 
+           output = "Assignments/Images/10_m_ostrich.jpg") #10 meters
+
+
 ### Mallard Duck
 AcuityView(photo = img, 
            distance = 1,  # representing 1 meter distance
