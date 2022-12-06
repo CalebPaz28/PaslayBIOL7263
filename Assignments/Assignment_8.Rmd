@@ -1,0 +1,51 @@
+---
+title: "Assignment 8: Aquity View"
+author: "Caleb Paslay"
+date: "Last updated 9/14/2022"
+---
+```{r message =FALSE}
+library(AcuityView)
+library(magrittr)
+library(imager)
+library(fftwtools)
+```
+
+**[My Script](lecture_notes/Lecture9_student_presentation.R)**
+
+## Base Image 
+![](Images/fish_image.jpeg)
+
+## 1. Eagle (*Aquila audax*) Aquity = 140
+
+```{r, echo=FALSE, out.width="25%", fig.cap=c("**1 meter**", "**2 meters**", "**3 meters**", "**10 meters**"),fig.align='center',R.options="angle=90"}
+knitr::include_graphics(c("Images/1_m_eagle.jpg", "Images/2_m_eagle.jpg", "Images/3_m_eagle.jpg", "Images/10_m_eagle.jpg"))
+```
+
+
+## 2. Common Ostrich (*Struthio camelus*) Aquity = 19.8 
+
+```{r, echo=FALSE, out.width="25%", fig.cap=c("**1 meter**", "**2 meters**", "**3 meters**","**10 meters**"),fig.align='center',R.options="angle=90"}
+knitr::include_graphics(c("Images/1_m_ostrich.jpg", "Images/2_m_ostrich.jpg", "Images/3_m_ostrich.jpg", "Images/10_m_ostrich.jpg"))
+```
+
+
+## 3. Mallard Duck (*Anas platyrhynchos*) Aquity = 11.9
+```{r, echo=FALSE, out.width="25%", fig.cap=c("**1 meter**", "**2 meters**", "**3 meters**","**10 meters**"),fig.align='center',R.options="angle=90"}
+knitr::include_graphics(c("Images/1_m_mallard.jpg", "Images/2_m_mallard.jpg", "Images/3_m_mallard.jpg", "Images/10_m_mallard.jpg"))
+```
+
+
+
+## 4. Canada Goose (*Branta canadensis*) Aquity = 9.6
+
+```{r, echo=FALSE, out.width="25%", fig.cap=c("**1 meter**", "**2 meters**", "**3 meters**","**10 meters**"),fig.align='center',R.options="angle=90"}
+knitr::include_graphics(c("Images/1_m_goose.jpg", "Images/2_m_goose.jpg", "Images/3_m_goose.jpg", "Images/10_m_goose.jpg"))
+```
+
+
+## 5. Common Pheasant (*Phasianus colchicus*) Aquity = 12.9
+
+```{r, echo=FALSE, out.width="25%", fig.cap=c("**1 meter**", "**2 meters**", "**3 meters**","**10 meters**"),fig.align='center',R.options="angle=90"}
+knitr::include_graphics(c("Images/1_m_pheasant.jpg", "Images/2_m_pheasant.jpg", "Images/3_m_pheasant.jpg", "Images/10_m_pheasant.jpg"))
+```
+

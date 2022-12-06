@@ -122,8 +122,183 @@ AcuityView(photo = img4,
 
 #5. Sheep (Ovis aries)
 
+###################################################################################
+#Assignment for aquity view
+
+img <- load.image(file = "Assignments/Images/fish_image.jpeg")
+dim(img)
+
+img <- resize(img, 512, 512)
+dim(img)
+
+# Eagle
+AcuityView(photo = img, 
+           distance = 1,  # representing 1 meter distance
+           realWidth = 0.25, # representing size of object (fish in this case)
+           eyeResolutionX = 0.00714, #take 1/VA (visual aquity) Ex. = 1/140
+           eyeResolutionY = NULL, 
+           plot = T, 
+           output = "Assignments/Images/1_m_eagle.jpg") #1 meter
+
+AcuityView(photo = img, 
+           distance = 2,  # representing 1 meter distance
+           realWidth = 0.25, # representing size of object (fish in this case)
+           eyeResolutionX = 0.00714, #take 1/VA (visual aquity) Ex. = 1/140
+           eyeResolutionY = NULL, 
+           plot = T, 
+           output = "Assignments/Images/2_m_eagle.jpg") #2 meter
+
+AcuityView(photo = img, 
+           distance = 3,  # representing 1 meter distance
+           realWidth = 0.25, # representing size of object (fish in this case)
+           eyeResolutionX = 0.00714, #take 1/VA (visual aquity) Ex. = 1/140
+           eyeResolutionY = NULL, 
+           plot = T, 
+           output = "Assignments/Images/3_m_eagle.jpg") #3 meter
+
+AcuityView(photo = img, 
+           distance = 10,  # representing 10 meter distance
+           realWidth = 0.25, # representing size of object (fish in this case)
+           eyeResolutionX = 0.00714, #take 1/VA (visual aquity) Ex. = 1/140
+           eyeResolutionY = NULL, 
+           plot = T, 
+           output = "Assignments/Images/10_m_eagle.jpg") #10 meter
+
+#Common Ostrich
+AcuityView(photo = img, 
+           distance = 1,  # representing 1 meter distance
+           realWidth = 0.25, # representing size of object (fish in this case)
+           eyeResolutionX = .0505, #take 1/VA (visual aquity) Ex. = 1/19.8
+           eyeResolutionY = NULL, 
+           plot = T, 
+           output = "Assignments/Images/1_m_ostrich.jpg") #1 meter
 
 
+AcuityView(photo = img, 
+           distance = 2,  # representing 2 meter distance
+           realWidth = 0.25, # representing size of object (fish in this case)
+           eyeResolutionX = .0505, #take 1/VA (visual aquity) Ex. = 1/19.8
+           eyeResolutionY = NULL, 
+           plot = T, 
+           output = "Assignments/Images/2_m_ostrich.jpg") #2 meters
+
+
+AcuityView(photo = img, 
+           distance = 3,  # representing 3 meter distance
+           realWidth = 0.25, # representing size of object (fish in this case)
+           eyeResolutionX = .0505, #take 1/VA (visual aquity) Ex. = 1/19.8
+           eyeResolutionY = NULL, 
+           plot = T, 
+           output = "Assignments/Images/3_m_ostrich.jpg") #3 meters
+
+### Mallard Duck
+AcuityView(photo = img, 
+           distance = 1,  # representing 1 meter distance
+           realWidth = 0.25, # representing size of object (fish in this case)
+           eyeResolutionX = .0840, #take 1/VA (visual aquity) Ex. = 1/11.9
+           eyeResolutionY = NULL, 
+           plot = T, 
+           output = "Assignments/Images/1_m_mallard.jpg") #1 meters
+
+
+AcuityView(photo = img, 
+           distance = 2,  # representing 2 meter distance
+           realWidth = 0.25, # representing size of object (fish in this case)
+           eyeResolutionX = .0840, #take 1/VA (visual aquity) Ex. = 1/11.9
+           eyeResolutionY = NULL, 
+           plot = T, 
+           output = "Assignments/Images/2_m_mallard.jpg") #2 meters
+
+
+
+AcuityView(photo = img, 
+           distance = 3,  # representing 3 meter distance
+           realWidth = 0.25, # representing size of object (fish in this case)
+           eyeResolutionX = .0840, #take 1/VA (visual aquity) Ex. = 1/11.9
+           eyeResolutionY = NULL, 
+           plot = T, 
+           output = "Assignments/Images/3_m_mallard.jpg") #3 meters
+
+AcuityView(photo = img, 
+           distance = 10,  # representing 10 meter distance
+           realWidth = 0.25, # representing size of object (fish in this case)
+           eyeResolutionX = .0840, #take 1/VA (visual aquity) Ex. = 1/11.9
+           eyeResolutionY = NULL, 
+           plot = T, 
+           output = "Assignments/Images/10_m_mallard.jpg") #10 meters
+
+
+
+
+### Canadian Goose
+AcuityView(photo = img, 
+           distance = 1,  # representing 1 meter distance
+           realWidth = 0.25, # representing size of object (fish in this case)
+           eyeResolutionX = .1041, #take 1/VA (visual aquity) Ex. = 1/9.6
+           eyeResolutionY = NULL, 
+           plot = T, 
+           output = "Assignments/Images/1_m_goose.jpg") #1 meters
+
+
+AcuityView(photo = img, 
+           distance = 2,  # representing 2 meter distance
+           realWidth = 0.25, # representing size of object (fish in this case)
+           eyeResolutionX = .1041, #take 1/VA (visual aquity) Ex. = 1/9.6
+           eyeResolutionY = NULL, 
+           plot = T, 
+           output = "Assignments/Images/2_m_goose.jpg") #2 meters
+
+AcuityView(photo = img, 
+           distance = 3,  # representing 3 meter distance
+           realWidth = 0.25, # representing size of object (fish in this case)
+           eyeResolutionX = .1041, #take 1/VA (visual aquity) Ex. = 1/9.6
+           eyeResolutionY = NULL, 
+           plot = T, 
+           output = "Assignments/Images/3_m_goose.jpg") #3 meters
+
+AcuityView(photo = img, 
+           distance = 10,  # representing 10 meter distance
+           realWidth = 0.25, # representing size of object (fish in this case)
+           eyeResolutionX = .1041, #take 1/VA (visual aquity) Ex. = 1/9.6
+           eyeResolutionY = NULL, 
+           plot = T, 
+           output = "Assignments/Images/10_m_goose.jpg") #10 meters
+
+### Common Pheasant
+
+AcuityView(photo = img, 
+           distance = 1,  # representing 1 meter distance
+           realWidth = 0.25, # representing size of object (fish in this case)
+           eyeResolutionX = 0.0775, #take 1/VA (visual aquity) Ex. = 1/12.9
+           eyeResolutionY = NULL, 
+           plot = T, 
+           output = "Assignments/Images/1_m_pheasant.jpg") #1 meters
+
+
+AcuityView(photo = img, 
+           distance = 2,  # representing 2 meter distance
+           realWidth = 0.25, # representing size of object (fish in this case)
+           eyeResolutionX = 0.0775, #take 1/VA (visual aquity) Ex. = 1/12.9
+           eyeResolutionY = NULL, 
+           plot = T, 
+           output = "Assignments/Images/2_m_pheasant.jpg") #2 meters
+
+
+AcuityView(photo = img, 
+           distance = 3,  # representing 3 meter distance
+           realWidth = 0.25, # representing size of object (fish in this case)
+           eyeResolutionX = 0.0775, #take 1/VA (visual aquity) Ex. = 1/12.9
+           eyeResolutionY = NULL, 
+           plot = T, 
+           output = "Assignments/Images/3_m_pheasant.jpg") #3 meters
+
+AcuityView(photo = img, 
+           distance = 10,  # representing 10 meter distance
+           realWidth = 0.25, # representing size of object (fish in this case)
+           eyeResolutionX = 0.0775, #take 1/VA (visual aquity) Ex. = 1/12.9
+           eyeResolutionY = NULL, 
+           plot = T, 
+           output = "Assignments/Images/10_m_pheasant.jpg") #10 meters
 ################################################################################
 
 ##Loops: Running the same code for different values of a variable. 

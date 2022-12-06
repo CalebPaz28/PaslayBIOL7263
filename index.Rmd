@@ -37,15 +37,15 @@ knitr::include_graphics("8.19.22_All_(1).JPEG")
 ##### **Table of Assignments**
 Date|Description|Assignment 
 :---|:---|:---|
-8.29.22|Introduction to Git|[Assignment 1](Assignments/Assignment1.html)
+8.29.22|Introduction to Git|[Assignment 1](Assignments/Assignment_1.html)
 9.5.22|Introduction to R|[Assignment 2](Assignments/practice_lecture2.html)
 9.12.22|Regular Expressions|[Assignment 3](Assignments/Assignment3_regular_expressions.html)
 9.19.22|Dplyr|[Assignment 4](Assignments/Assignment4.html)
 9.26.22|tidyr|[Assignment 5](Assignments/assignment5_tidyr.html)
-10.10.22|GGPLOT2|[Assignment 6]()
-10.17.22|GIS in R|[Assignment 7](Assignments/Assignment-7.html)
-10.24.22|Acuity View and Loops|[Assignment 8](Assignments/lecture_notes/lecture9_student_presentation.R)
-10.31.22|AIC and PCA||[Assignment 9](Assignments/lecture_notes/lecture10_student_presentation.R)
+10.10.22|GGPLOT2|[Assignment 6](Assignments/Assignment_6.html)
+10.17.22|GIS in R|[Assignment 7](Assignments/Assignment_7.html)
+10.24.22|Acuity View|[Assignment 8](Assignments/Assignment_8.html)
+10.31.22|||[Assignment 9](Assignments/Assignment_9.html)
 11.10.22|Phylo_activity|[Assignment 10](Assignments/phylo_assignment.html)
 
 ##### **Table of Lecture Notes and Scripts**
@@ -61,11 +61,9 @@ Date|Description|Lecture
 10.20.22|Lecture 8|[GIS in R](Assignments/lecture_notes/lecture8notes.R)
 10.27.22|Lecture 9|[aquity view & for_loops](Assignments/lecture_notes/lecture9_student_presentation.R)
 11.3.22|Lecture 10|[AIC & PCA](Assignments/lecture_notes/lecture10_student_presentation.R)
-11.10.22|My Presentation Day|[entrez workthrough](Project/rentrez_presentation_notes.R)
+11.10.22|Rentrez, Functions|[Functions](Assignments/lecture_notes/11.10.22_cari_presentation.R)
 11.17.22|Lecture 11|[geomorph & phytools](Assignments/lecture_notes/lecture11_student_presentation.R)
-11.24.22|Lecture 12|
-12.1.22|Lecture 13|
-12.8.22|
+12.1.22|Lecture 12|[Heatmaps, Package creation, spatial data](Assignments/lecture_notes/lecture12_student_presentation.R)
 
 
 ### My Lesson 
@@ -74,14 +72,6 @@ Date|Description|Lecture
 #### [Rentrez lecture notes](Project/rentrez_presentation_notes.R)
 
 
-
-```{r echo=FALSE, message=FALSE}
-g1 <- ggplot(data=mpg) +
-  aes(x=hwy,y=cty) + 
-  geom_point(color="red") + 
-  geom_smooth()
-g1
-```
 
 
 
