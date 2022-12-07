@@ -45,7 +45,7 @@ Date|Description|Assignment
 10.10.22|GGPLOT2|[Assignment 6](Assignments/Assignment_6.html)
 10.17.22|GIS in R|[Assignment 7](Assignments/Assignment_7.html)
 10.24.22|Acuity View|[Assignment 8](Assignments/Assignment_8.html)
-10.31.22|||[Assignment 9](Assignments/Assignment_9.html)
+10.31.22|Heatmaps|[Assignment 9](Assignments/Assignment_9.html)
 11.10.22|Phylo_activity|[Assignment 10](Assignments/phylo_assignment.html)
 
 ##### **Table of Lecture Notes and Scripts**

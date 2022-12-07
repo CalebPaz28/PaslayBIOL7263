@@ -28,7 +28,7 @@ library(ggplot2)
 #d3heatmap(): part of the d3heatmap package
 #heatmaply(): part of the heatmaply package
 
-##################################################################
+####################################################################################################################################
 
 pheremone_data <- read.csv("Assignments/Data/pheromone_data.csv")
 
@@ -91,8 +91,35 @@ plot.background = element_blank(),
 panel.background = element_blank(),
 panel.border = element_blank())
 
+####################################################################################################################################
+#Assignment Script
 
-##################################################################
+assignment <- read.csv("Assignments/Data/MAH_assignment_data.csv")
+
+View(assignment)
+
+ggplot(assignment,
+       aes(x = Sample, y = Gene, fill = Expression)) +
+  geom_tile(colour = "black", size = 0.5) + 
+  scale_fill_gradient(low = "black", high = "lightgreen") +
+  theme_gray(base_size = 12) +
+  facet_grid(~Tissue, switch = "x", scales = "free_x", space = "free_x") + 
+  ggtitle(label = "Pheromone gene expression") +
+  scale_x_discrete(labels = c('D.brim', 'E.tyn M', 'E.tyn P', 'P.alb', 'D.brim', 'E.tyn M', 'E.tyn P', 'P.alb')) +
+  theme(plot.title = element_text(face = "bold"),
+        strip.placement = "outside", 
+        legend.title = element_text(face = "bold"),
+        axis.title = element_text(face = "bold"),
+        axis.title.x = element_blank(),
+        axis.text.y = element_text(color = "black"),
+        axis.text.x = element_text(angle = 270, hjust = 0, color = "black"),
+        axis.ticks = element_blank(),
+        plot.background = element_blank(),
+        panel.background = element_blank(),
+        panel.border = element_blank())
+
+
+####################################################################################################################################
 
 # Creating your own R package 
 

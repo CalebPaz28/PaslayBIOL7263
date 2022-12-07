@@ -12,6 +12,8 @@ library(fftwtools)
 
 **[My Script](lecture_notes/Lecture9_student_presentation.R)**
 
+I decided to use the same image for each species of bird (I fully understand that most of these birds do not eat salmon) because I wanted to compare the visual aquity between different species at different distances on the same image or same environmental condition.
+
 ## Base Image 
 ![](Images/fish_image.jpeg)
 
