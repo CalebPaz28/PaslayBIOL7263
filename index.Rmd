@@ -4,7 +4,7 @@ author: "Caleb Paslay"
 date: "Last updated 9/14/2022"
 output: 
   prettydoc::html_pretty: 
-    theme: hpstr
+    theme: tactile
 ---
 
 ```{r setup, include=FALSE}
@@ -50,7 +50,7 @@ Date|Description|Assignment
 
 ##### **Table of Lecture Notes and Scripts**
 Date|Description|Lecture
-:---|:---|:---|:---
+:---:|:---:|:---:
 8.29.22|Paper notes|
 9.5.22|Lecture 2|[Rmarkdown](Assignments/lecture_notes/lecture2notes.R)
 9.12.22|Lecture 3|[regular expressions](Assignments/lecture_notes/lecture3notes.R)
