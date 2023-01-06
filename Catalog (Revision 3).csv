@@ -1,0 +1,352 @@
+Collection Date,Locale,Grower,Sample Type,Acreage ,~Observed Q,Collected Q,Sample(s),Sample ID,,Sample Code,,Virus Infection ,Ilumina Sequencing,Comments,TRNA,TDNA,PCR Screening,PMMoV,BCTV,CMV,AMV,TYLCV,PYDV,BWYV,PepYDV,Begomovirus,MCDV,Cap. Actin,BPEV,Pepper Cryptic,BCRSV
+8/5/2021,oaks,mike,pepper_leaf,4,50-60,6,1,CH1,,F1,,,,,1,0,,0,N/A,,C,N/A,C,C,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8/5/2021,oaks,mike,pepper_leaf,4,50-60,6,2,CH2,,F2,,,,,1,0,,0,N/A,,C,N/A,C,C,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8/5/2021,oaks,mike,pepper_leaf,4,50-60,6,3,CH3,,F3,,,,,1,0,,0,N/A,,C,N/A,C,C,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8/5/2021,oaks,mike,pepper_leaf,4,50-60,6,4,CH4,,F4,,,,,1,0,,0,N/A,,C,N/A,C,C,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8/5/2021,oaks,mike,pepper_leaf,4,50-60,6,5,CH5,,F5,,,,,1,0, ,0,N/A,,C,N/A,C,C,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8/5/2021,oaks,mike,pepper_leaf,4,50-60,6,6,CH6,,F6,,,,,1,0,,0,N/A,,C,N/A,C,C,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+,,,,,,,,,,,,,,,,,,PMMoV,BCTV,CMV,AMV,TYLCV,PYDV,BWYV,PepYDV,Begomovirus,MCDV,Cap. Actin,BPEV,Pepper Cryptic,BCRSV
+8/17/2021,Layne,jim_shiply,pepper_leaf,N/A,5+,3,7,AK1,,F7,,,,,1,0,,0,0,,C,N/A,C,C,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8/17/2021,Layne,jim_shiply,pepper_leaf,N/A,5+,3,8,AK2,,F8,,,,,1,0,,0,0,,C,N/A,C,C,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8/17/2021,Layne,jim_shiply,pepper_leaf,N/A,5+,3,9,AK3,,F9,,,,,1,0,,0,0,,C,N/A,C,C,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+,,,,,,,,,,,,,,,,,,PMMoV,BCTV,CMV,AMV,TYLCV,PYDV,BWYV,PepYDV,Begomovirus,MCDV,Cap. Actin,BPEV,Pepper Cryptic,BCRSV
+8/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,24,10,CO1,,F10,,"AMV, CMV",Round_1,,1,0,,0,N/A,,1,N/A,C,C,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,24,11,CO2,,F11,,,,,1,0,,0,N/A,,C,N/A,C,C,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,24,12,CO3,,F12,,,Round_2,,1,0,,0,N/A,,C,N/A,C,C,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,24,13,CO4,,F13,,,,,1,0,,0,N/A,,C,N/A,C,C,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,24,14,CO5,,F14,,,,,1,0,,0,N/A,,C,N/A,C,C,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,24,15,CO6,,F15,,"PMMoV, AMV, CMV",Round_1,,1,0,,1,N/A,,1,N/A,C,C,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,24,16,CO7,,F16,,,,,1,0,,0,N/A,,C,N/A,C,C,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,24,17,CO8,,F17,,PMMoV,,,1,0,,1,N/A,,C,N/A,C,C,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,24,18,CO9,,F18,,PMMoV,,,1,0,,1,N/A,,C,N/A,C,C,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,24,19,CO10,,F19,,,,,1,0,,0,N/A,,C,N/A,C,C,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,24,20,CO11,,F20,,PMMoV,,,1,0,,1,N/A,,C,N/A,C,C,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,24,21,CO12,,F21,,PMMoV,,,1,0,,1,N/A,,C,N/A,C,C,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,24,22,CO13,,F22,,,,,1,0,,0,N/A,,C,N/A,C,C,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,24,23,CO14,,F23,,,,,1,0,,0,N/A,,C,N/A,C,C,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,24,24,CO15,,F24,,,,,1,0,,0,N/A,,C,N/A,C,C,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,24,25,CO16,,F25,,AMV,Round_1,,1,0,,0,N/A,,1,N/A,C,C,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,24,26,CO17,,F26,,"PMMoV, CMV, AMV",Round_1,,1,0,,1,N/A,,0,N/A,C,C,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,24,27,CO19,,F27,,,,,1,0,,0,N/A,,C,N/A,C,C,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,24,28,CO20,,F28,,PMMoV,,,1,0,,1,N/A,,C,N/A,C,C,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,24,29,CO21,,F29,,"PMMoV, AMV ",Round_1,,1,0,,1,N/A,,0,N/A,C,C,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,24,30,CO22,,F30,,AMV,Round_1,,1,0,,0,N/A,,1,N/A,C,C,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,24,31,CO23,,F31,,,,,1,0,,0,N/A,,C,N/A,C,C,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,24,32,CO24,,F32,,"BCTV, PepYDV",Round_2,,1,1,,0,0,,C,C,C,C,C,N/A,N/A,N/A,N/A,N/A,N/A
+8/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,24,33,CO25,,F33,,,,,1,0,,0,N/A,,C,N/A,C,C,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+,,,,,,,,,,,,,,,,,,PMMoV,BCTV,CMV,AMV,TYLCV,PYDV,BWYV,PepYDV,Begomovirus,MCDV,Cap. Actin,BPEV,Pepper Cryptic,BCRSV
+9/15/2021,Bixby,glenn,pepper_leaf,10-20,50-60,14,34,BX1,,F34,,,,,1,1,,0,,,C,0,C,C,0,N/A,N/A,N/A,N/A,N/A,N/A
+9/15/2021,Bixby,glenn,pepper_leaf,10-20,50-60,14,35,BX2,,F35,,,,,1,1,,0,,,C,0,C,C,0,N/A,N/A,N/A,N/A,N/A,N/A
+9/15/2021,Bixby,glenn,pepper_leaf,10-20,50-60,14,36,BX3,,F36,,,,,1,1,,0,,,C,0,C,C,0,N/A,N/A,N/A,N/A,N/A,N/A
+9/15/2021,Bixby,glenn,pepper_leaf,10-20,50-60,14,37,BX4,,F37,,,,,1,1,,0,,,C,0,C,C,0,N/A,N/A,N/A,N/A,N/A,N/A
+9/15/2021,Bixby,glenn,pepper_leaf,10-20,50-60,14,38,BX5,,F38,,TYLCV,,,1,1,,0,,,C,1,C,C,0,N/A,N/A,N/A,N/A,N/A,N/A
+9/15/2021,Bixby,glenn,pepper_leaf,10-20,50-60,14,39,BX6,,F39,,"BPEV, TYLCV",Round_1,,1,1,,0,,,C,1,C,C,0,N/A,N/A,N/A,N/A,N/A,N/A
+9/15/2021,Bixby,glenn,pepper_leaf,10-20,50-60,14,40,BX7,,F40,,,,,1,1,,0,,,C,0,C,C,0,N/A,N/A,N/A,N/A,N/A,N/A
+9/15/2021,Bixby,glenn,pepper_leaf,10-20,50-60,14,41,BX8,,F41,,,,,1,1,,0,,,C,0,C,C,0,N/A,N/A,N/A,N/A,N/A,N/A
+9/15/2021,Bixby,glenn,pepper_leaf,10-20,50-60,14,42,BX9,,F42,,TYLCV,,,1,1,,0,,,C,1,C,C,0,N/A,N/A,N/A,N/A,N/A,N/A
+9/15/2021,Bixby,glenn,tomato_leaf,10-20,50-60,14,43,BX10,,F43,,TYLCV,,,1,1,,0,0,,C,1,C,C,0,N/A,N/A,N/A,N/A,N/A,N/A
+9/15/2021,Bixby,glenn,tomato_leaf,10-20,50-60,14,44,BX11,,F44,,TLYCV,Round_1,,1,1,,0,0,,C,1,C,C,0,N/A,N/A,N/A,N/A,N/A,N/A
+9/15/2021,Bixby,glenn,tomato_leaf,10-20,50-60,14,45,BX12,,F45,,TYLCV,,,1,1,,0,0,,C,1,C,C,0,N/A,N/A,N/A,N/A,N/A,N/A
+9/15/2021,Bixby,glenn,tomato_leaf,10-20,50-60,14,46,BX13,,F46,,TYLCV,,,1,1,,0,0,,C,1,C,C,0,N/A,N/A,N/A,N/A,N/A,N/A
+9/15/2021,Bixby,glenn,tomato_leaf,10-20,50-60,14,47,BX14,,F47,,TYLCV,,,1,1,,0,0,,C,1,C,C,0,N/A,N/A,N/A,N/A,N/A,N/A
+,,,,,,,,,,,,,,,,,,PMMoV,BCTV,CMV,AMV,TYLCV,PYDV,BWYV,PepYDV,Begomovirus,MCDV,Cap. Actin,BPEV,Pepper Cryptic,BCRSV
+9/22/2021,hydro,dean_smith,pepper_leaf,600,1000+,17,48,CO1,,F48,,,Round_1,,1,1,,0,0,,C,0,C,C,C,N/A,N/A,N/A,N/A,N/A,N/A
+9/22/2021,hydro,dean_smith,pepper_leaf,600,1000+,17,49,CO2,,F49,,,,,1,1,,0,0,,C,0,C,C,C,N/A,N/A,N/A,N/A,N/A,N/A
+9/22/2021,hydro,dean_smith,pepper_leaf,600,1000+,17,50,CO3,,F50,,PMMoV,,,1,0,,1,N/A,,C,N/A,C,C,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9/22/2021,hydro,dean_smith,pepper_leaf,600,1000+,17,51,CO4,,F51,,PMMoV,,,1,1,,1,0,,C,0,C,C,C,N/A,N/A,N/A,N/A,N/A,N/A
+9/22/2021,hydro,dean_smith,pepper_leaf,600,1000+,17,52,CO5,,F52,,PMMoV,,,1,1,,1,0,,C,N/A,C,C,C,N/A,N/A,N/A,N/A,N/A,N/A
+9/22/2021,hydro,dean_smith,pepper_leaf,600,1000+,17,53,CO6,,F53,,PMMoV,,,1,1,,1,0,,C,0,C,C,C,N/A,N/A,N/A,N/A,N/A,N/A
+9/22/2021,hydro,dean_smith,pepper_leaf,600,1000+,17,54,CO7,,F54,,PMMoV,,,1,1,,1,0,,C,0,C,C,C,N/A,N/A,N/A,N/A,N/A,N/A
+9/22/2021,hydro,dean_smith,pepper_leaf,600,1000+,17,55,CO8,,F55,,,,,1,1,,0,0,,C,0,C,C,C,N/A,N/A,N/A,N/A,N/A,N/A
+9/22/2021,hydro,dean_smith,pepper_leaf,600,1000+,17,56,CO9,,F56,,PMMoV,Round_1,,1,1,,1,0,,C,0,C,C,C,N/A,N/A,N/A,N/A,N/A,N/A
+9/22/2021,hydro,dean_smith,pepper_leaf,600,1000+,17,57,CO10,,F57,,"PMMoV, PYDV",Round_1,,1,1,,1,0,,C,0,1,C,C,N/A,N/A,N/A,N/A,N/A,N/A
+9/22/2021,hydro,dean_smith,pepper_leaf,600,1000+,17,58,CO11,,F58,,PMMoV,,,1,0,,1,N/A,,C,N/A,C,C,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9/22/2021,hydro,dean_smith,pepper_leaf,600,1000+,17,59,CO12,,F59,,,,,1,1,,0,0,,C,0,C,C,C,N/A,N/A,N/A,N/A,N/A,N/A
+9/22/2021,hydro,dean_smith,pepper_leaf,600,1000+,17,60,CO13,,F60,,,,,1,1,,0,0,,C,0,C,C,C,N/A,N/A,N/A,N/A,N/A,N/A
+9/22/2021,hydro,dean_smith,pepper_leaf,600,1000+,17,61,CO14,,F61,,,,,1,0,,0,N/A,,C,N/A,C,C,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9/22/2021,hydro,dean_smith,pepper_leaf,600,1000+,17,62,CO15,,F62,,,Round_2,,1,1,,0,0,N/A,C,0,C,N/A,C,N/A,N/A,N/A,N/A,N/A,N/A
+9/22/2021,hydro,dean_smith,pepper_leaf,600,1000+,17,63,CO16,,F63,,,,,1,1,,0,0,,C,0,C,C,C,N/A,N/A,N/A,N/A,N/A,N/A
+9/22/2021,hydro,dean_smith,pepper_leaf,600,1000+,17,64,CO17,,F64,,PYDV,Round_1,,1,0,,0,N/A,N/A,C,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+,,,,,,,,,,,,,,,,,,PMMoV,BCTV,CMV,AMV,TYLCV,PYDV,BWYV,PepYDV,Begomovirus,MCDV,Cap. Actin,BPEV,Pepper Cryptic,BCRSV
+10/4/2021,Muskogee,arnetta,pepper_leaf,2,20-30,2,65,MK1,,F65,,,,,1,0,,0,N/A,,C,N/A,C,C,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10/4/2021,Muskogee,arnetta,pepper_leaf,2,20-30,2,66,MK2,,F66,,,,,1,0,,0,N/A,,C,N/A,C,C,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+,,,,,,,,,,,,,,,,,,PMMoV,BCTV,CMV,AMV,TYLCV,PYDV,BWYV,PepYDV,Begomovirus,MCDV,Cap. Actin,BPEV,Pepper Cryptic,BCRSV
+10/4/2021,Bixby,glenn,pepper_leaf,10-20,50-60,10,67,BX1,,F67,,,,,1,1,,0,0,,C,0,C,C,0,N/A,N/A,N/A,N/A,N/A,N/A
+10/4/2021,Bixby,glenn,pepper_leaf,10-20,50-60,10,68,BX2,,F68,,BPEV,Round_1,,1,1,,0,0,,C,0,C,C,0,N/A,N/A,N/A,N/A,N/A,N/A
+10/4/2021,Bixby,glenn,pepper_leaf,10-20,50-60,10,69,BX3,,F69,,,,,1,1,,0,0,,C,0,C,C,0,N/A,N/A,N/A,N/A,N/A,N/A
+10/4/2021,Bixby,glenn,pepper_leaf,10-20,50-60,10,70,BX4,,F70,,,,,1,1,,0,0,,C,0,C,C,0,N/A,N/A,N/A,N/A,N/A,N/A
+10/4/2021,Bixby,glenn,pepper_leaf,10-20,50-60,10,71,BX5,,F71,,,,,1,1,,0,0,,C,0,C,C,0,N/A,N/A,N/A,N/A,N/A,N/A
+10/4/2021,Bixby,glenn,pepper_leaf,10-20,50-60,10,72,BX6,,F72,,,,,1,1,,0,0,,C,0,C,C,0,N/A,N/A,N/A,N/A,N/A,N/A
+10/4/2021,Bixby,glenn,pepper_leaf,10-20,50-60,10,73,BX7,,F73,,,,,1,1,,0,0,,C,0,C,C,0,N/A,N/A,N/A,N/A,N/A,N/A
+10/4/2021,Bixby,glenn,pepper_leaf,10-20,50-60,10,74,BX8,,F74,,,,,1,1,,0,0,,C,0,C,C,0,N/A,N/A,N/A,N/A,N/A,N/A
+10/4/2021,Bixby,glenn,pepper_leaf,10-20,50-60,10,75,BX9,,F75,,BPEV,Round_1,,1,1,,0,0,,C,0,C,C,0,N/A,N/A,N/A,N/A,N/A,N/A
+10/4/2021,Bixby,glenn,tomato_leaf,10-20,50-60,10,76,BX10,,F76,,TYLCV,,,1,1,,0,0,,C,1,C,C,0,N/A,N/A,N/A,N/A,N/A,N/A
+,,,,,,,,,,,,,,,,,,PMMoV,BCTV,CMV,AMV,TYLCV,PYDV,BWYV,PepYDV,Begomovirus,MCDV,Cap. Actin,BPEV,Pepper Cryptic,BCRSV
+10/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,40,77,CO1,,F77,,,,,1,1,,0,0,,C,C,C,C,C,N/A,N/A,N/A,N/A,N/A,N/A
+10/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,40,78,CO2,,F78,,"PepYDV, BCTV, TVCV",Round_2,,1,1,,0,1,N/A,N/A,N/A,N/A,N/A,C,N/A,N/A,N/A,N/A,N/A,N/A
+10/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,40,79,CO3,,F79,,PMMoV,Round_2,,1,0,,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,40,80,CO4,,F80,,,,,1,0,,0,N/A,,C,N/A,C,C,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,40,81,CO5,,F81,,,,,1,0,,0,N/A,,C,N/A,C,C,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,40,82,CO6,,F82,,,,,1,0,,0,N/A,,C,N/A,C,C,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,40,83,CO7,,F83,,,,,1,0,,0,N/A,,C,N/A,C,C,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,40,84,CO8,,F84,,"BCTV, TVCV",Round_2,,1,1,,0,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,40,85,CO9,,F85,,BCTV,,,1,1,,0,1,,C,C,C,C,C,N/A,N/A,N/A,N/A,N/A,N/A
+10/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,40,86,CO10,,F86,,"BCTV, TVCV",Round_2,,1,1,,0,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,40,87,CO11,,F87,,"CMV, BCTV, BWYV,  TVCV",Round_2,,1,1,,0,1,,N/A,N/A,N/A,C,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,40,88,CO12,,F88,,,,,1,0,,0,N/A,,C,N/A,C,C,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,40,89,CO13,,F89,,TVCV,Round_2,,1,0,,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,40,90,CO14,,F90,,TVCV,Round_2,,1,1,,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,40,91,CO15,,F91,,"BCTV, TVCV",Round_2,,1,1,,0,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,40,92,CO16A,,F92,,"BCTV, TVCV",Round_2,,1,1,,0,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,40,93,CO16B,,F93,,BCTV,,,1,1,,0,1,,C,C,C,C,1,N/A,N/A,N/A,N/A,N/A,N/A
+10/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,40,94,CO17,,F94,,BCTV,,,1,1,,0,1,,C,C,C,C,1,N/A,N/A,N/A,N/A,N/A,N/A
+10/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,40,95,C018,,F95,,,,,1,0,,0,N/A,,C,N/A,C,C,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,40,96,C019,,F96,,,,,1,0,,0,N/A,,C,N/A,C,C,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,40,97,CO20,,F97,,TVCV,Round_2,,1,0,,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,40,98,CO21,,F98,,,,,1,1,,0,0,,C,C,C,C,0,N/A,N/A,N/A,N/A,N/A,N/A
+10/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,40,99,CO22,,F99,,"CMV, AMV, BWYV",Round_2,,1,0,,0,N/A,,C,N/A,N/A,C,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,40,100,CO23,,F100,,TVCV,Round_2,,1,1,,0,0,N/A,N/A,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A
+10/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,40,101,CO24,,F101,,"CMV, BWYV",Round_2,,1,0,,0,N/A,,N/A,N/A,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,40,102,CO25,,F102,,,,,1,0,,0,N/A,,C,N/A,C,C,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,40,103,CO26,,F103,,,,,1,0,,0,N/A,,C,N/A,C,C,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,40,104,CO27,,F104,,"CMV, BWYV",Round_2,,1,0,,0,N/A,,N/A,N/A,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,40,105,CO28,,F105,,,,,1,1,,0,0,,C,C,C,C,0,N/A,N/A,N/A,N/A,N/A,N/A
+10/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,40,106,CO29,,F106,,,,,1,0,,0,N/A,,C,N/A,C,C,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,40,107,CO30,,F107,,,,,1,0,,0,N/A,,C,N/A,C,C,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,40,108,CO31,,F108,,BWYV,Round_2,,1,0,,0,N/A,N/A,N/A,N/A,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,40,109,CO32,,F109,,PMMoV,,,1,0,,1,N/A,,C,N/A,C,C,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,40,110,CO33,,F110,,,,,1,0,,0,N/A,,C,N/A,C,C,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,40,111,CO34,,F111,,,,,1,0,,0,N/A,,C,N/A,C,C,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,40,112,CO35,,F112,,Nothing,Round_2,,1,0,,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,40,113,CO36,,F113,,,,,1,0,,0,N/A,,C,N/A,C,C,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,40,114,CO37,,F114,,,,,1,0,,0,N/A,,C,N/A,C,C,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,40,115,CO38,,F115,,Nothing,Round_2,,1,0,,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,40,116,CO39,,F116,,,,,1,0,,0,N/A,,C,N/A,C,C,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+10/25/2021,hydro,dean_smith,pepper_leaf,600,1000+,40,117,CO40,,F117,,Nothing,Round_2,,1,0,,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+,,,,,,,,,,,,,,,,,,PMMoV,BCTV,CMV,AMV,TYLCV,PYDV,BWYV,PepYDV,Begomovirus,MCDV,Cap. Actin,BPEV,Pepper Cryptic,BCRSV
+5/6/2022,Bixby,glenn,weed_leaf,10-20,N/A,15,118,W1,,F118,,,,Pea Plant,1,0,,,N/A,,,N/A,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5/6/2022,Bixby,glenn,weed_leaf,10-20,N/A,15,119,W2,,F119,,,,Pea Plant,1,0,,,N/A,,,N/A,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5/6/2022,Bixby,glenn,weed_leaf,10-20,N/A,15,120,W3,,F120,,,,Common Dandelion,1,0,,,N/A,,,N/A,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5/6/2022,Bixby,glenn,weed_leaf,10-20,N/A,15,121,W4,,F121,,,,Oenothera laciniata,1,0,,,N/A,,,N/A,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5/6/2022,Bixby,glenn,weed_leaf,10-20,N/A,15,122,W5,,F122,,,,White clover (Trifolium repens),1,0,,,N/A,,,N/A,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5/6/2022,Bixby,glenn,weed_leaf,10-20,N/A,15,123,W6,,F123,,,,Curled Dock (Rumex crispus),1,0,,,N/A,,,N/A,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5/6/2022,Bixby,glenn,weed_leaf,10-20,N/A,15,124,W7,,F124,,,,White clover (Trifolium repens),1,0,,,N/A,,,N/A,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+5/6/2022,Bixby,glenn,weed_leaf,10-20,N/A,15,125,W8,,F125,,,,White clover (Trifolium repens),1,1,,,0,,,0,,,0,0,N/A,N/A,N/A,N/A,N/A
+5/6/2022,Bixby,glenn,weed_leaf,10-20,N/A,15,126,W9,,F126,,,,Bush vetch (Vicia sepium),1,1,,,,,,0,,,0,0,N/A,N/A,N/A,N/A,N/A
+5/6/2022,Bixby,glenn,weed_leaf,10-20,N/A,15,127,W10,,F127,,,,Bush vetch (Vicia sepium),1,1,,,0,,,0,,,0,0,N/A,N/A,N/A,N/A,N/A
+5/6/2022,Bixby,glenn,weed_leaf,10-20,N/A,15,128,W11,,F128,,,,Oenothera laciniata,1,1,,,0,,,0,,,0,0,N/A,N/A,N/A,N/A,N/A
+5/6/2022,Bixby,glenn,Tree L,10-20,N/A,15,129,Tree 1,,F129,,,,Common hackberry (Celtis occidentalis),1,1,,,,,,0,,,,0,N/A,N/A,N/A,N/A,N/A
+5/6/2022,Bixby,glenn,Grape L,10-20,N/A,15,130,Grape 1,,F130,,,,No Image,1,1,,,0,,,0,,,0,0,N/A,N/A,N/A,N/A,N/A
+5/6/2022,Bixby,glenn,Ivy L,10-20,N/A,15,131,Ivy 1,,F131,,,,No Image,1,1,,,0,,,0,,,0,0,N/A,N/A,N/A,N/A,N/A
+5/6/2022,Bixby,glenn,Pinta L,10-20,N/A,15,132,Pinta 1,,F132,,,,No Image,1,1,,,0,,,0,,,0,0,N/A,N/A,N/A,N/A,N/A
+,,,,,,,,,,,,,,,,,,PMMoV,BCTV,CMV,AMV,TYLCV,PYDV,BWYV,PepYDV,Begomovirus,MCDV,Cap. Actin,BPEV,Pepper Cryptic,BCRSV
+8/17/2021,Layne,jim_shiply,Squash L,N/A,N/A,N/A,133,Atoka 1,,F133,,,,Atoka Samples were from Clark,0,1,,N/A,N/A,N/A,N/A,0,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A
+8/17/2021,Layne,jim_shiply,Squash L,N/A,N/A,N/A,134,Atoka 4,,F134,,,,Atoka Samples were from Clark,0,1,,N/A,0,N/A,N/A,0,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A
+8/17/2021,Layne,jim_shiply,Squash L,N/A,N/A,N/A,135,Atoka 5,,F135,,,,Atoka Samples were from Clark,0,1,,N/A,0,N/A,N/A,0,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A
+8/17/2021,Layne,jim_shiply,Squash L,N/A,N/A,N/A,136,Atoka 9,,F136,,,,Atoka Samples were from Clark,0,1,,N/A,N/A,N/A,N/A,0,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A
+5.11.22,Tulsa,Bonnie Plants,Pepper P,Store,100,1,137,ATWOODS 1,,F137,,,,,1,0,,,N/A,,,N/A,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+,,,,,,,,,,,,,,,,,,PMMoV,BCTV,CMV,AMV,TYLCV,PYDV,BWYV,PepYDV,Begomovirus,MCDV,Cap. Actin,BPEV,Pepper Cryptic,BCRSV
+5.27.22,Caddo,dean_smith,Johnson Grass,600,-,-,138,Johnson 1,,F138,,MCDV,,,1,0,,,N/A,,,N/A,,,N/A,N/A,1,N/A,N/A,N/A,N/A
+5.27.22,Caddo,dean_smith,Johnson Grass,600,-,-,139,Johnson 2,,F139,,MCDV,,,1,0,,,N/A,,,N/A,,,N/A,N/A,1,N/A,N/A,N/A,N/A
+9.22.21,hydro,dean_smith,Pepper P,600,1000+,17,140,CO 9.22.21,,F140,,PMMoV,Round_3,"The whole plant was taken, but samples were not collected directly from this sample.",1,0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A
+,,,,,,,,,,,,,,,,,,PMMoV,BCTV,CMV,AMV,TYLCV,PYDV,BWYV,PepYDV,Begomovirus,MCDV,Cap. Actin,BPEV,Pepper Cryptic,BCRSV
+6.15.22,Bixby,glenn,tomato_leaf,10-20,100+,8,141,T1,,F141,,TYLCV,,,1,1,,,0,,,1,,,0,N/A,N/A,N/A,N/A,N/A,N/A
+6.15.22,Bixby,glenn,tomato_leaf,10-20,100+,8,142,T2,,F142,,TYLCV,,,1,1,,,0,,,1,,,0,N/A,N/A,N/A,N/A,N/A,N/A
+6.15.22,Bixby,glenn,tomato_leaf,10-20,100+,8,143,T3,,F143,,TYLCV,,,1,1,,,0,,,1,,,0,N/A,N/A,N/A,N/A,N/A,N/A
+6.15.22,Bixby,glenn,tomato_leaf,10-20,100+,8,144,T4,,F144,,TYLCV,,,1,1,,,0,,,1,,,0,N/A,N/A,N/A,N/A,N/A,N/A
+6.15.22,Bixby,glenn,tomato_leaf,10-20,100+,8,145,T5,,F145,,TYLCV,,,1,1,,,0,,,1,,,0,N/A,N/A,N/A,N/A,N/A,N/A
+6.15.22,Bixby,glenn,tomato_leaf,10-20,100+,8,146,T6,,F146,,TYLCV,,,1,1,,,0,,,1,,,0,N/A,N/A,N/A,N/A,N/A,N/A
+6.15.22,Bixby,glenn,tomato_leaf,10-20,100+,8,147,T7,,F147,,TYLCV,,,1,1,,,0,,,1,,,0,N/A,N/A,N/A,N/A,N/A,N/A
+6.15.22,Bixby,glenn,tomato_leaf,10-20,100+,8,148,T9,,F148,,TYLCV,,,1,1,,,0,,,1,,,0,N/A,N/A,N/A,N/A,N/A,N/A
+,,,,,,,,,,,,,,,,,,PMMoV,BCTV,CMV,AMV,TYLCV,PYDV,BWYV,PepYDV,Begomovirus,MCDV,Cap. Actin,BPEV,Pepper Cryptic,BCRSV
+6.17.22,Willow,caleb_wooton,pepper_leaf,40,1000+,11,149,P1,,F149,,"BCTV, PepYDV",Round 4 (Pool 1),,1,1,,N/A,1,N/A,N/A,N/A,N/A,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A
+6.17.22,Willow,caleb_wooton,pepper_leaf,40,1000+,11,150,P2,,F150,,"BCTV, PepYDV",Round 4 (Pool 1),,1,1,,N/A,1,N/A,N/A,N/A,N/A,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A
+6.17.22,Willow,caleb_wooton,pepper_leaf,40,1000+,11,151,P3,,F151,,"BCTV, PepYDV",Round_3,,1,1,,N/A,1,N/A,N/A,N/A,N/A,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A
+6.17.22,Willow,caleb_wooton,pepper_leaf,40,1000+,11,152,P4,,F152,,"BCTV, PepYDV",Round 4 (Pool 1),,1,1,,N/A,1,N/A,N/A,N/A,N/A,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A
+6.17.22,Willow,caleb_wooton,pepper_leaf,40,1000+,11,153,P5,,F153,,,Round 4 (Pool 1),,1,1,,N/A,1,N/A,N/A,N/A,N/A,N/A,C,N/A,N/A,N/A,N/A,N/A,N/A
+6.17.22,Willow,caleb_wooton,pepper_leaf,40,1000+,11,154,P6,,F154,,BCTV,Round 4 (Pool 2),,1,1,,N/A,1,N/A,N/A,N/A,N/A,N/A,C,N/A,N/A,N/A,N/A,N/A,N/A
+6.17.22,Willow,caleb_wooton,pepper_leaf,40,1000+,11,155,P7,,F155,,BCTV,Round 4 (Pool 2),,1,1,,N/A,1,N/A,N/A,N/A,N/A,N/A,C,N/A,N/A,N/A,N/A,N/A,N/A
+6.17.22,Willow,caleb_wooton,pepper_leaf,40,1000+,11,156,P8,,F156,,,Round 4 (Pool 2),,1,1,,N/A,0,N/A,N/A,N/A,N/A,N/A,C,N/A,N/A,N/A,N/A,N/A,N/A
+6.17.22,Willow,caleb_wooton,pepper_leaf,40,1000+,11,157,P10,,F157,,,Round 4 (Pool 2),I accidently skipped P9 (no sample or image was taken),1,1,,N/A,0,N/A,N/A,N/A,N/A,N/A,C,N/A,N/A,N/A,N/A,N/A,N/A
+6.17.22,Willow,caleb_wooton,weed_leaf,40,1000+,11,158,W1,,F158,,,Round 4 (Pool 18),,1,1,,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6.17.22,Willow,caleb_wooton,weed_leaf,40,1000+,11,159,W2,,F159,,,Round 4 (Pool 18),,1,1,,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6.17.22,Willow,caleb_wooton,Whole Insect,40,TNTC,5,160,Grasshopper 1,,I1,,,,,1,0,,,N/A,,,N/A,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6.17.22,Willow,caleb_wooton,Whole Insect,40,TNTC,5,161,Grasshopper 2,,I2,,,,,1,0,,,N/A,,,N/A,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6.17.22,Willow,caleb_wooton,Whole Insect,40,TNTC,5,162,Grasshopper 3,,I3,,,,,1,0,,,N/A,,,N/A,,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6.17.22,Willow,caleb_wooton,Whole Insect,40,TNTC,5,163,Grasshopper 4,,I4,,,,,0,1,,N/A,0,N/A,N/A,N/A,N/A,N/A,C,N/A,N/A,N/A,N/A,N/A,N/A
+6.17.22,Willow,caleb_wooton,Whole Insect,40,TNTC,5,164,Grasshopper 5,,I5,,,,,0,1,,N/A,0,N/A,N/A,N/A,N/A,N/A,C,N/A,N/A,N/A,N/A,N/A,N/A
+,,,,,,,,,,,,,,,,,,PMMoV,BCTV,CMV,AMV,TYLCV,PYDV,BWYV,PepYDV,Begomovirus,MCDV,Cap. Actin,BPEV,Pepper Cryptic,BCRSV
+6.22.22,oaks,mike,pepper_leaf,4,50+,24,165,P1,,F160,,"BPEV, PCV2",Round 4 (Pool 3),,1,0,,N/A,N/A,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6.22.22,oaks,mike,pepper_leaf,4,50+,24,166,P2,,F161,,"BPEV, PCV2",Round 4 (Pool 3),,1,0,,N/A,N/A,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6.22.22,oaks,mike,pepper_leaf,4,50+,24,167,P3,,F162,,VVeV1 ,Round_3,,1,0,,N/A,N/A,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6.22.22,oaks,mike,pepper_leaf,4,50+,24,168,P4,,F163,,"BPEV, PCV2",Round 4 (Pool 3),,1,0,,N/A,N/A,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6.22.22,oaks,mike,pepper_leaf,4,50+,24,169,P5,,F164,,"BPEV, PCV2",Round 4 (Pool 3),,1,0,,N/A,N/A,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6.22.22,oaks,mike,pepper_leaf,4,50+,24,170,P6,,F165,,"BPEV, PCV2",Round 4 (Pool 3),,1,0,,N/A,N/A,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6.22.22,oaks,mike,pepper_leaf,4,50+,24,171,P7,,F166,,"BPEV, PCV2",Round_3,,1,0,,N/A,N/A,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6.22.22,oaks,mike,Basil L,4,50+,24,172,Basil 1,,F167,,*,Round 4 (Pool 19),,1,0,,N/A,N/A,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,
+6.22.22,oaks,mike,Basil L,4,50+,24,173,Basil 2,,F168,,*,Round 4 (Pool 19),,1,0,,N/A,N/A,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,
+6.22.22,oaks,mike,Squash L,4,50+,24,174,Squash 1,,F169,,*,Round 4 (Pool 19),,1,0,,N/A,N/A,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,
+6.22.22,oaks,mike,Squash L,4,50+,24,175,Squash 2,,F170,,*,Round 4 (Pool 19),,1,0,,N/A,N/A,N/A,N/A,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,
+6.22.22,oaks,mike,Squash L,4,50+,24,176,Squash 3,,F171,,*,Round 4 (Pool 19),,1,0,,N/A,N/A,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,
+6.22.22,oaks,mike,Potato L,4,50+,24,177,Potato 1,,F172,,*,Round 4 (Pool 20),,1,0,,N/A,N/A,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6.22.22,oaks,mike,Potato L,4,50+,24,178,Potato 2,,F173,,*,Round 4 (Pool 20),,1,0,,N/A,N/A,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6.22.22,oaks,mike,Potato L,4,50+,24,179,Potato 3,,F174,,*,Round 4 (Pool 20),,1,0,,N/A,N/A,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6.22.22,oaks,mike,Potato L,4,50+,24,180,Potato 4,,F175,,*,Round 4 (Pool 20),,1,0,,N/A,N/A,N/A,N/A,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6.22.22,oaks,mike,Potato L,4,50+,24,181,Potato 5,,F176,,*,Round 4 (Pool 20),,1,0,,N/A,N/A,N/A,N/A,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6.22.22,oaks,mike,tomato_leaf,4,50+,24,182,Tomato 1,,F177,,,,,1,0,,,N/A,,,N/A,0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6.22.22,oaks,mike,tomato_leaf,4,50+,24,183,Tomato 2,,F178,,,,,1,0,,,N/A,,,N/A,0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6.22.22,oaks,mike,Blackberry L,4,50+,24,184,Blackberry 1,,F180,,*,,,1,0,,,N/A,,,N/A,0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6.22.22,oaks,mike,Blackberry L,4,50+,24,185,Blackberry 2,,F179,,nothing,Round_3,Ilumina data seemed to be mixed up by OSU so this is the best possible explanation.,1,0,,N/A,N/A,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6.22.22,oaks,mike,Blackberry L,4,50+,24,186,Blackberry 3,,F181,,*,,,1,0,,,N/A,,,N/A,0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6.22.22,oaks,mike,weed_leaf,4,50+,24,187,W1,,F182,,*,,Pokeweed,1,0,,,N/A,,,N/A,0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+6.22.22,oaks,mike,weed_leaf,4,50+,24,188,W2,,F183,,PkMV,Round_3,Pokeweed,1,0,,N/A,N/A,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+,,,,,,,,,,,,,,,,,,PMMoV,BCTV,CMV,AMV,TYLCV,PYDV,BWYV,PepYDV,Begomovirus,MCDV,Cap. Actin,BPEV,Pepper Cryptic,BCRSV
+7.30.22,hydro,dean_smith,pepper_leaf,600,1000+,34,189,P1,,F184,,"PCV1,2",Round 4 (Pool 4),,1,0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+7.30.22,hydro,dean_smith,pepper_leaf,600,1000+,34,190,P2,,F185,,"PCV1,2",Round 4 (Pool 4),,1,0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+7.30.22,hydro,dean_smith,pepper_leaf,600,1000+,34,191,P3,,F186,,"PCV1,2",Round 4 (Pool 4),,1,0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+7.30.22,hydro,dean_smith,pepper_leaf,600,1000+,34,192,P4,,F187,,"PCV1,2",Round 4 (Pool 4),,1,0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+7.30.22,hydro,dean_smith,pepper_leaf,600,1000+,34,193,P5,,F188,,,Round 4 (Pool 5),,1,1,,N/A,0,N/A,N/A,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A
+7.30.22,hydro,dean_smith,pepper_leaf,600,1000+,34,194,P6,,F189,,,Round 4 (Pool 5),,1,1,,N/A,0,N/A,N/A,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A
+7.30.22,hydro,dean_smith,pepper_leaf,600,1000+,34,195,P7,,F190,,,Round 4 (Pool 5),,1,1,,N/A,0,N/A,N/A,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A
+7.30.22,hydro,dean_smith,pepper_leaf,600,1000+,34,196,P8,,F191,,"BCTV, PepYDV",Round 4 (Pool 5),,1,1,,N/A,1,N/A,N/A,N/A,N/A,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A
+7.30.22,hydro,dean_smith,pepper_leaf,600,1000+,34,197,P9,,F192,,PepYDV,Round 4 (Pool 6),,1,1,,N/A,0,N/A,N/A,N/A,N/A,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A
+7.30.22,hydro,dean_smith,pepper_leaf,600,1000+,34,198,P10,,F193,,,Round 4 (Pool 6),,1,1,,N/A,0,N/A,N/A,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A
+7.30.22,hydro,dean_smith,pepper_leaf,600,1000+,34,199,P11,,F194,,BCTV,Round 4 (Pool 6),,1,1,,N/A,1,N/A,N/A,N/A,N/A,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A
+7.30.22,hydro,dean_smith,pepper_leaf,600,1000+,34,200,P12,,F196,,,Round 4 (Pool 7),,1,1,,N/A,0,N/A,N/A,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A
+7.30.22,hydro,dean_smith,pepper_leaf,600,1000+,34,201,P13,,F195,,,Round 4 (Pool 6),,1,1,,N/A,0,N/A,N/A,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A
+7.30.22,hydro,dean_smith,pepper_leaf,600,1000+,34,202,P14,,F197,,BCTV,Round 4 (Pool 7),,1,1,,N/A,1,N/A,N/A,N/A,N/A,N/A,C,N/A,N/A,N/A,N/A,N/A,N/A
+7.30.22,hydro,dean_smith,pepper_leaf,600,1000+,34,203,P15,,F198,,BCTV,Round 4 (Pool 7),,1,1,,N/A,1,N/A,N/A,N/A,N/A,N/A,C,N/A,N/A,N/A,N/A,N/A,N/A
+7.30.22,hydro,dean_smith,pepper_leaf,600,1000+,34,204,P16,,F199,,BCTV,Round 4 (Pool 7),,1,1,,N/A,1,N/A,N/A,N/A,N/A,N/A,C,N/A,N/A,N/A,N/A,N/A,N/A
+7.30.22,hydro,dean_smith,pepper_leaf,600,1000+,34,205,P17,,F200,,BCTV,Round 4 (Pool 8),,1,1,,N/A,1,N/A,N/A,N/A,N/A,N/A,C,N/A,N/A,N/A,N/A,N/A,N/A
+7.30.22,hydro,dean_smith,pepper_leaf,600,1000+,34,206,P18,,F201,,,Round 4 (Pool 8),,1,1,,N/A,0,N/A,N/A,N/A,N/A,N/A,C,N/A,N/A,N/A,N/A,N/A,N/A
+7.30.22,hydro,dean_smith,pepper_leaf,600,1000+,34,207,P19,,F202,,BCTV,Round 4 (Pool 8),,1,1,,N/A,1,N/A,N/A,N/A,N/A,N/A,C,N/A,N/A,N/A,N/A,N/A,N/A
+7.30.22,hydro,dean_smith,pepper_leaf,600,1000+,34,208,P20,,F203,,BCTV,Round 4 (Pool 8),,1,1,,N/A,1,N/A,N/A,N/A,N/A,N/A,C,N/A,N/A,N/A,N/A,N/A,N/A
+7.30.22,hydro,dean_smith,pepper_leaf,600,1000+,34,209,P21,,F204,,,Round 4 (Pool 9),,1,1,,N/A,0,N/A,N/A,N/A,N/A,N/A,C,N/A,N/A,N/A,N/A,N/A,N/A
+7.30.22,hydro,dean_smith,pepper_leaf,600,1000+,34,210,P22,,F205,,BCTV,Round 4 (Pool 9),,1,1,,N/A,1,N/A,N/A,N/A,N/A,N/A,C,N/A,N/A,N/A,N/A,N/A,N/A
+7.30.22,hydro,dean_smith,pepper_leaf,600,1000+,34,211,P23,,F206,,BCTV,Round 4 (Pool 9),,1,1,,N/A,1,N/A,N/A,N/A,N/A,N/A,C,N/A,N/A,N/A,N/A,N/A,N/A
+7.30.22,hydro,dean_smith,pepper_leaf,600,1000+,34,212,P24,,F207,,,Round 4 (Pool 9),Row 14 in the field on the north side of the farm closer to I40. ,1,1,,N/A,0,N/A,N/A,N/A,N/A,N/A,C,N/A,N/A,N/A,N/A,N/A,N/A
+7.30.22,hydro,dean_smith,pepper_leaf,600,1000+,34,213,P25,,F208,,,Round 4 (Pool 10),,1,1,,N/A,0,N/A,N/A,N/A,N/A,N/A,C,N/A,N/A,N/A,N/A,N/A,N/A
+7.30.22,hydro,dean_smith,pepper_leaf,600,1000+,34,214,P26,,F209,,BCTV,Round 4 (Pool 10),,1,1,,N/A,1,N/A,N/A,N/A,N/A,N/A,C,N/A,N/A,N/A,N/A,N/A,N/A
+7.30.22,hydro,dean_smith,pepper_leaf,600,1000+,34,215,P27,,F210,,,Round 4 (Pool 10),,1,0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+7.30.22,hydro,dean_smith,pepper_leaf,600,1000+,34,216,P28,,F211,,,Round 4 (Pool 10),,1,0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+7.30.22,hydro,dean_smith,pepper_leaf,600,1000+,34,217,P29,,F212,,BCTV,Round 4 (Pool 11),,1,1,,N/A,1,N/A,N/A,N/A,N/A,N/A,C,N/A,N/A,N/A,N/A,N/A,N/A
+7.30.22,hydro,dean_smith,pepper_leaf,600,1000+,34,218,P30,,F213,,BCTV,Round 4 (Pool 11),,1,1,,N/A,1,N/A,N/A,N/A,N/A,N/A,C,N/A,N/A,N/A,N/A,N/A,N/A
+7.30.22,hydro,dean_smith,pepper_leaf,600,1000+,34,219,P31,,F214,,,Round 4 (Pool 11),,1,0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+7.30.22,hydro,dean_smith,pepper_leaf,600,1000+,34,220,P32,,F215,,BCTV,Round 4 (Pool 12),,1,1,,N/A,1,N/A,N/A,N/A,N/A,N/A,C,N/A,N/A,N/A,N/A,N/A,N/A
+7.30.22,hydro,dean_smith,pepper_leaf,600,1000+,34,221,P33,,F216,,,Round 4 (Pool 12),,1,0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+7.30.22,hydro,dean_smith,pepper_leaf,600,1000+,34,222,P34,,F217,,,Round 4 (Pool 12),,1,0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+,,,,,,,,,,,,,,,,,,PMMoV,BCTV,CMV,AMV,TYLCV,PYDV,BWYV,PepYDV,Begomovirus,MCDV,Cap. Actin,BPEV,Pepper Cryptic,BCRSV
+8.3.22,Bixby,glenn,Squash L,10-20,100+,10,223,S1,,F218,,,Round 4 (Pool 21),,1,0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8.3.22,Bixby,glenn,Squash L,10-20,100+,10,224,S2,,F219,,,Round 4 (Pool 21),,1,0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8.3.22,Bixby,glenn,Squash L,10-20,100+,10,225,S3,,F220,,,Round 4 (Pool 21),,1,0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8.3.22,Bixby,glenn,tomato_leaf,10-20,100+,10,226,T1,,F221,,,Round 4 (Pool 22),,1,1,,N/A,N/A,N/A,N/A,0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8.3.22,Bixby,glenn,tomato_leaf,10-20,100+,10,227,T2,,F222,,TYLCV,Round 4 (Pool 22),,1,1,,N/A,N/A,N/A,N/A,1,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8.3.22,Bixby,glenn,tomato_leaf,10-20,100+,10,228,T3,,F223,,TYLCV,Round 4 (Pool 22),,1,1,,N/A,N/A,N/A,N/A,1,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8.3.22,Bixby,glenn,tomato_leaf,10-20,100+,10,229,T4,,F224,,TYLCV,Round 4 (Pool 22),,1,1,,N/A,N/A,N/A,N/A,1,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8.3.22,Bixby,glenn,tomato_leaf,10-20,100+,10,230,T5,,F225,,TYLCV,Round 4 (Pool 22),,1,1,,N/A,N/A,N/A,N/A,1,,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8.3.22,Bixby,glenn,tomato_leaf,10-20,100+,10,231,T6,,F226,,TYLCV,,,1,1,,,,,,1,,,0,N/A,N/A,N/A,N/A,N/A,N/A
+8.3.22,Bixby,glenn,tomato_leaf,10-20,100+,10,232,T7,,F227,,TYLCV,,,1,1,,,,,,1,,,0,N/A,N/A,N/A,N/A,N/A,N/A
+,,,,,,,,,,,,,,,,,,PMMoV,BCTV,CMV,AMV,TYLCV,PYDV,BWYV,PepYDV,Begomovirus,MCDV,Cap. Actin,BPEV,Pepper Cryptic,BCRSV
+8.3.22,oaks,mike,pepper_leaf,4,100+,17,233,P1,,F228,,,Round 4 (Pool 13),,1,0,,N/A,N/A,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8.3.22,oaks,mike,pepper_leaf,4,100+,17,234,P2,,F229,,PYDV,Round 4 (Pool 13),,1,0,,N/A,N/A,N/A,N/A,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8.3.22,oaks,mike,pepper_leaf,4,100+,17,235,P3,,F230,,PYDV,Round 4 (Pool 13),,1,0,,N/A,N/A,N/A,N/A,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8.3.22,oaks,mike,pepper_leaf,4,100+,17,236,P4,,F231,,PYDV,Round 4 (Pool 13),,1,0,,N/A,N/A,N/A,N/A,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8.3.22,oaks,mike,pepper_leaf,4,100+,17,237,P5,,F232,,,,,1,0,,,N/A,,,N/A,0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8.3.22,oaks,mike,pepper_leaf,4,100+,17,238,P6,,F233,,,,,1,0,,,N/A,,,N/A,0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8.3.22,oaks,mike,pepper_leaf,4,100+,17,239,P8,,F234,,,,,1,0,,,N/A,,,N/A,0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8.3.22,oaks,mike,pepper_leaf,4,100+,17,240,P9,,F235,,,,,1,0,,,N/A,,,N/A,0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8.3.22,oaks,mike,pepper_leaf,4,100+,17,241,P10,,F236,,,Round 4 (Pool 16),,1,0,,N/A,N/A,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8.3.22,oaks,mike,pepper_leaf,4,100+,17,242,P11,,F237,,PYDV,,,1,0,,,N/A,,,N/A,1,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8.3.22,oaks,mike,pepper_leaf,4,100+,17,243,P12,,F238,,,,,1,0,,,N/A,,,N/A,0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8.3.22,oaks,mike,pepper_leaf,4,100+,17,244,P13,,F239,,PYDV,,,1,0,,,N/A,,,N/A,1,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8.3.22,oaks,mike,pepper_leaf,4,100+,17,245,P14,,F240,,PYDV,Round 4 (Pool 16),,1,0,,N/A,N/A,N/A,N/A,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8.3.22,oaks,mike,Squash L,4,100+,17,246,S4,,F241,,,Round 4 (Pool 23),,1,0,,N/A,N/A,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8.3.22,oaks,mike,Squash L,4,100+,17,247,S5,,F242,,,Round 4 (Pool 23),,1,0,,N/A,N/A,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8.3.22,oaks,mike,Squash L,4,100+,17,248,S6,,F243,,,Round 4 (Pool 23),,1,0,,N/A,N/A,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8.3.22,oaks,mike,Squash L,4,100+,17,249,S7,,F244,,,Round 4 (Pool 23),,1,0,,N/A,N/A,N/A,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+,,,,,,,,,,,,,,,,,,PMMoV,BCTV,CMV,AMV,TYLCV,PYDV,BWYV,PepYDV,Begomovirus,MCDV,Cap. Actin,BPEV,Pepper Cryptic,BCRSV
+8.22.22,oaks,mike,pepper_leaf,4,100+,5,250,P1,,F257,,PYDV,Round 4 (Pool 14),Plant in GH,1,0,,N/A,N/A,,N/A,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8.22.22,oaks,mike,pepper_leaf,4,100+,5,251,P2,,F258,,PYDV,Round 4 (Pool 15),,1,0,,N/A,N/A,N/A,N/A,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8.22.22,oaks,mike,pepper_leaf,4,100+,5,252,P3,,F259,,PYDV,Round 4 (Pool 17),,1,0,,N/A,N/A,N/A,N/A,N/A,1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8.22.22,oaks,mike,pepper_leaf,4,100+,5,253,P4,,F260,,PYDV,,No picture was taken ,1,0,,,N/A,,,N/A,1,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+8.22.22,oaks,mike,Whole Insect,4,100+,5,254,Aphids,,I6,,,,"Aphids were taken from F257 plant leaves., ",1,0,,,N/A,,,N/A,0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+,,,,,,,,,,,,,,,,,,PMMoV,BCTV,CMV,AMV,TYLCV,PYDV,BWYV,PepYDV,Begomovirus,MCDV,Cap. Actin,BPEV,Pepper Cryptic,BCRSV
+8.31.22,Bixby,glenn,tomato_leaf,10-20,100+,2,255,T1,,F245,,TYLCV,,,0,1,,N/A,,N/A,N/A,1,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A
+8.31.22,Bixby,glenn,tomato_leaf,10-20,100+,2,255,T2,,F246,,TYLCV,,,0,1,,N/A,,N/A,N/A,1,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A
+,,,,,,,,,,,,,,,,,,PMMoV,BCTV,CMV,AMV,TYLCV,PYDV,BWYV,PepYDV,Begomovirus,MCDV,Cap. Actin,BPEV,Pepper Cryptic,BCRSV
+9.12.22,Willow,caleb_wooton,pepper_leaf,40,1000+,23,256,P1,,F247,,,,,1,1,,,0,,,C,,,C,N/A,N/A,N/A,N/A,N/A,N/A
+9.12.22,Willow,caleb_wooton,pepper_leaf,40,1000+,23,257,P2,,F248,,BCTV,,,1,1,,,1,,,C,,,C,N/A,N/A,N/A,N/A,N/A,N/A
+9.12.22,Willow,caleb_wooton,pepper_leaf,40,1000+,23,258,P3,,F249,,BCTV,,,1,1,,,1,,,C,,,C,N/A,N/A,N/A,N/A,N/A,N/A
+9.12.22,Willow,caleb_wooton,pepper_leaf,40,1000+,23,259,P4,,F250,,BCTV,,,1,1,,,1,,,C,,,C,N/A,N/A,N/A,N/A,N/A,N/A
+9.12.22,Willow,caleb_wooton,pepper_leaf,40,1000+,23,260,P5,,F251,,BCTV,,,1,1,,,1,,,C,,,C,N/A,N/A,N/A,N/A,N/A,N/A
+9.12.22,Willow,caleb_wooton,pepper_leaf,40,1000+,23,261,P6,,F252,,BCTV,,,1,1,,,1,,,C,,,C,N/A,N/A,N/A,N/A,N/A,N/A
+9.12.22,Willow,caleb_wooton,pepper_leaf,40,1000+,23,262,P7,,F253,,BCTV,,,1,1,,,1,,,C,,,C,N/A,N/A,N/A,N/A,N/A,N/A
+9.12.22,Willow,caleb_wooton,pepper_leaf,40,1000+,23,263,P8,,F254,,BCTV,,,1,1,,,1,,,C,,,C,N/A,N/A,N/A,N/A,N/A,N/A
+9.12.22,Willow,caleb_wooton,pepper_leaf,40,1000+,23,264,P9,,F255,,BCTV,,,1,1,,,1,,,C,,,C,N/A,N/A,N/A,N/A,N/A,N/A
+9.12.22,Willow,caleb_wooton,pepper_leaf,40,1000+,23,265,P10,,F256,,BCTV,,,1,1,,,1,,,C,,,C,N/A,N/A,N/A,N/A,N/A,N/A
+9.12.22,Willow,caleb_wooton,pepper_leaf,40,1000+,23,266,P11,,F261,,BCTV,,,1,1,,,1,,,C,,,C,N/A,N/A,N/A,N/A,N/A,N/A
+9.12.22,Willow,caleb_wooton,pepper_leaf,40,1000+,23,267,P12,,F262,,BCTV,,,1,1,,,1,,,C,,,C,N/A,N/A,N/A,N/A,N/A,N/A
+9.12.22,Willow,caleb_wooton,pepper_leaf,40,1000+,23,268,P13,,F263,,BCTV,,,1,1,,,1,,,C,,,C,N/A,N/A,N/A,N/A,N/A,N/A
+9.12.22,Willow,caleb_wooton,pepper_leaf,40,1000+,23,269,P14,,F264,,BCTV,,,1,1,,,1,,,C,,,C,N/A,N/A,N/A,N/A,N/A,N/A
+9.12.22,Willow,caleb_wooton,pepper_leaf,40,1000+,23,270,P15A,,F265,,BCTV,,,1,1,,,1,,,C,,,C,N/A,N/A,N/A,N/A,N/A,N/A
+9.12.22,Willow,caleb_wooton,pepper_leaf,40,1000+,23,271,P15B,,F266,,"BCTV, PepYDV",,,1,1,,,1,,,C,,,1,N/A,N/A,N/A,N/A,N/A,N/A
+9.12.22,Willow,caleb_wooton,pepper_leaf,40,1000+,23,272,P16,,F267,,"BCTV, PepYDV",,,1,1,,,1,,,C,,,1,N/A,N/A,N/A,N/A,N/A,N/A
+9.12.22,Willow,caleb_wooton,pepper_leaf,40,1000+,23,273,P17,,F268,,"BCTV, PepYDV",,,1,1,,,1,,,C,,,1,N/A,N/A,N/A,N/A,N/A,N/A
+9.12.22,Willow,caleb_wooton,pepper_leaf,40,1000+,23,274,P18,,F269,,,,,1,1,,,0,,,C,,,0,N/A,N/A,N/A,N/A,N/A,N/A
+9.12.22,Willow,caleb_wooton,pepper_leaf,40,1000+,23,275,P19,,F270,,PepYDV,,,1,1,,,0,,,C,,,1,N/A,N/A,N/A,N/A,N/A,N/A
+9.12.22,Willow,caleb_wooton,pepper_leaf,40,1000+,23,276,P20,,F271,,"BCTV, PepYDV",,,1,1,,,1,,,C,,,1,N/A,N/A,N/A,N/A,N/A,N/A
+9.12.22,Willow,caleb_wooton,pepper_leaf,40,1000+,23,277,C-P1,,F272,,"BCTV, PepYDV",,Conner collected.,1,1,,,1,,,C,,,1,N/A,N/A,N/A,N/A,N/A,N/A
+9.12.22,Willow,caleb_wooton,pepper_leaf,40,1000+,23,278,C-P2,,F273,,"BCTV, PepYDV",,Conner collected.,1,1,,,1,,,C,,,1,N/A,N/A,N/A,N/A,N/A,N/A
+,,,,,,,,,,,,,,,,,,PMMoV,BCTV,CMV,AMV,TYLCV,PYDV,BWYV,PepYDV,Begomovirus,MCDV,Cap. Actin,BPEV,Pepper Cryptic,BCRSV
+9.12.22,hydro,dean_smith,pepper_leaf,600,1000+,5,279,CO1,,F274,,,,,1,1,,,0,,,C,,,0,N/A,N/A,N/A,N/A,N/A,N/A
+9.12.22,hydro,dean_smith,pepper_leaf,600,1000+,5,280,CO2,,F275,,PepYDV,,,1,1,,,0,,,C,,,1,N/A,N/A,N/A,N/A,N/A,N/A
+9.12.22,hydro,dean_smith,pepper_leaf,600,1000+,5,281,CO3,,F276,,"BCTV, PepYDV",,,1,1,,,1,,,C,,,1,N/A,N/A,N/A,N/A,N/A,N/A
+9.12.22,hydro,dean_smith,pepper_leaf,600,1000+,5,282,CO4,,F277,,,,,1,1,,,0,,,C,,,0,N/A,N/A,N/A,N/A,N/A,N/A
+9.12.22,hydro,dean_smith,Pepper P,600,1000+,5,283,CO5,,F278,,PepYDV,,Plant in GH,1,1,,,0,,,C,,,1,N/A,N/A,N/A,N/A,N/A,N/A
+,,,,,,,,,,,,,,,,,,PMMoV,BCTV,CMV,AMV,TYLCV,PYDV,BWYV,PepYDV,Begomovirus,MCDV,Cap. Actin,BPEV,Pepper Cryptic,BCRSV
+9.16.22,Bixby,glenn,Tomato P,10-20,100+,N/A,284,N/A,,F279,,TYLCV,,Whole plant ,0,1,,N/A,,N/A,N/A,1,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A
+9.16.22,Bixby,glenn,Tomato P,10-20,100+,N/A,285,N/A,,F280,,TYLCV,,Whole plant ,0,1,,N/A,,N/A,N/A,1,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A
+9.16.22,Bixby,glenn,Tomato P,10-20,100+,N/A,286,N/A,,F300,,TYLCV,,Plant cutting,0,1,,N/A,,N/A,N/A,1,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A
+9.16.22,Bixby,glenn,Tomato P,10-20,100+,N/A,287,N/A,,F301,,TYLCV,,Plant cutting,0,1,,N/A,,N/A,N/A,1,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A
+9.16.22,Bixby,glenn,Tomato P,10-20,100+,N/A,288,N/A,,F302,,TYLCV,,Plant cutting,0,1,,N/A,,N/A,N/A,1,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A
+9.16.22,Bixby,glenn,Tomato P,10-20,100+,N/A,289,N/A,,F303,,TYLCV,,Plant cutting,0,1,,N/A,,N/A,N/A,1,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A
+9.16.22,Bixby,glenn,Tomato P,10-20,100+,N/A,290,N/A,,F304,,TYLCV,,Plant cutting,0,1,,N/A,,N/A,N/A,1,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A
+9.16.22,Bixby,glenn,Tomato P,10-20,100+,N/A,291,N/A,,F305,,,,Plant cutting,0,1,,N/A,,N/A,N/A,0,N/A,N/A,0,N/A,N/A,N/A,N/A,N/A,N/A
+,,,,,,,,,,,,,,,,,,PMMoV,BCTV,CMV,AMV,TYLCV,PYDV,BWYV,PepYDV,Begomovirus,MCDV,Cap. Actin,BPEV,Pepper Cryptic,BCRSV
+9.26.22,oaks,mike,pepper_leaf,4,100+,19,292,P1,,F281,,PYDV,,,1,0,,,N/A,,,N/A,1,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9.26.22,oaks,mike,pepper_leaf,4,100+,19,293,P2,,F282,,PYDV,,,1,0,,,N/A,,,N/A,1,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9.26.22,oaks,mike,pepper_leaf,4,100+,19,294,P3,,F283,,PYDV,,,1,0,,,N/A,,,N/A,1,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9.26.22,oaks,mike,pepper_leaf,4,100+,19,295,P4,,F284,,,,,1,0,,,N/A,,,N/A,0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9.26.22,oaks,mike,pepper_leaf,4,100+,19,296,P5,,F285,,PYDV,,,1,0,,,N/A,,,N/A,1,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9.26.22,oaks,mike,pepper_leaf,4,100+,19,297,P7,,F286,,,,,1,0,,,N/A,,,N/A,0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9.26.22,oaks,mike,pepper_leaf,4,100+,19,298,P8,,F287,,PYDV,,,1,0,,,N/A,,,N/A,1,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9.26.22,oaks,mike,pepper_leaf,4,100+,19,299,P9,,F288,,PYDV,,,1,0,,,N/A,,,N/A,1,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9.26.22,oaks,mike,pepper_leaf,4,100+,19,300,P10,,F289,,,,,1,0,,,N/A,,,N/A,0,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9.26.22,oaks,mike,pepper_leaf,4,100+,19,301,P11,,F290,,PYDV,,,1,0,,,N/A,,,N/A,1,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9.26.22,oaks,mike,pepper_leaf,4,100+,19,302,P12,,F291,,PYDV,,,1,0,,,N/A,,,N/A,1,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9.26.22,oaks,mike,pepper_leaf,4,100+,19,303,P13,,F292,,PYDV,,,1,0,,,N/A,,,N/A,1,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9.26.22,oaks,mike,pepper_leaf,4,100+,19,304,P14,,F293,,PYDV,,,1,0,,,N/A,,,N/A,1,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9.26.22,oaks,mike,pepper_leaf,4,100+,19,305,P15,,F294,,PYDV,,,1,0,,,N/A,,,N/A,1,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9.26.22,oaks,mike,pepper_leaf,4,100+,19,306,P16,,F295,,PYDV,,,1,0,,,N/A,,,N/A,1,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9.26.22,oaks,mike,pepper_leaf,4,100+,19,307,P17,,F296,,PYDV,,,1,0,,,N/A,,,N/A,1,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9.26.22,oaks,mike,pepper_leaf,4,100+,19,308,P18,,F297,,PYDV,,,1,0,,,N/A,,,N/A,1,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9.26.22,oaks,mike,pepper_leaf,4,100+,19,309,P19,,F298,,PYDV,,,1,0,,,N/A,,,N/A,1,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+9.26.22,oaks,mike,pepper_leaf,4,100+,19,310,P20,,F299,,PYDV,,,1,0,,,N/A,,,N/A,1,,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+,,,,,,,,,,,,,,,,,,PMMoV,BCTV,CMV,AMV,TYLCV,PYDV,BWYV,PepYDV,Begomovirus,MCDV,Cap. Actin,BPEV,Pepper Cryptic,BCRSV
+,,,,,,,,,,F306,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,Remaining for Screening,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,92,23,194,92,0,64,92,1,0,0,0,0,0,5
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,563,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
